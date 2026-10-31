@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "judul": "Analisis Proses Poisson Homogen pada Kasus Riil Aliran Panggilan Darurat Seattle 911",
+    "tanggal_analisis": "2026-10-31",
+    "sumber_data": "City of Seattle Open Data Portal (API Socrata: kzjm-xkqj)",
+    "tanggal_observasi": "2026-10-23",
+    "durasi_observasi_jam": 24.0,
+    "total_panggilan": 314
+  },
+  "parameter_estimasi": {
+    "lambda_mle_per_jam": 13.083333333333334,
+    "lambda_mle_per_menit": 0.21805555555555556,
+    "ekspektasi_iat_menit": 4.585987261146497
+  },
+  "statistik_waktu_antar_kedatangan": {
+    "n_selang": 313,
+    "mean_menit": 4.5910543130990416,
+    "std_menit": 5.492318339629958,
+    "median_menit": 3.0,
+    "min_menit": 0.0,
+    "max_menit": 42.0,
+    "q25_menit": 1.0,
+    "q75_menit": 6.0,
+    "jumlah_iat_nol": 38,
+    "ks_test_exponential": {
+      "d_statistic": 0.12140575079872204,
+      "p_value": 0.00017709390844220579
+    }
+  },
+  "uji_dispersi_dan_stasioneritas": {
+    "skala_24h": {
+      "mean_per_jam": 13.083333333333334,
+      "variansi_per_jam": 38.51449275362319,
+      "simpangan_baku_per_jam": 6.206004572478431,
+      "indeks_dispersi_D": 2.94378288562725,
+      "chi2_stat": 67.70700636942675,
+      "derajat_kebebasan": 23,
+      "p_value": 2.733605475757628e-06,
+      "kesimpulan": "Overdispersi signifikan pada skala 24 jam akibat siklus diurnal"
+    },
+    "evaluasi_per_blok": {
+      "Dini Hari (01:00 - 06:00)": {
+        "hours": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "mean": 5.0,
+        "variance": 1.5,
+        "dispersion_index": 0.3,
+        "chi2": 1.2,
+        "p_value": 0.8780986177504424,
+        "counts": [
+          4,
+          4,
+          7,
+          5,
+          5
+        ]
+      },
+      "Pagi Menjelang Siang (07:00 - 12:00)": {
+        "hours": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "mean": 13.333333333333334,
+        "variance": 19.066666666666666,
+        "dispersion_index": 1.43,
+        "chi2": 7.1499999999999995,
+        "p_value": 0.20972151649912163,
+        "counts": [
+          8,
+          14,
+          21,
+          11,
+          14,
+          12
+        ]
+      },
+      "Siang ke Sore (13:00 - 18:00)": {
+        "hours": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "mean": 17.166666666666668,
+        "variance": 40.16666666666667,
+        "dispersion_index": 2.3398058252427187,
+        "chi2": 11.699029126213594,
+        "p_value": 0.0391527954669012,
+        "counts": [
+          19,
+          6,
+          20,
+          14,
+          24,
+          20
+        ]
+      },
+      "Malam Hari (19:00 - 24:00)": {
+        "hours": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          0
+        ],
+        "mean": 15.666666666666666,
+        "variance": 23.066666666666666,
+        "dispersion_index": 1.472340425531915,
+        "chi2": 7.361702127659575,
+        "p_value": 0.19509957070643713,
+        "counts": [
+          21,
+          21,
+          10,
+          11,
+          14,
+          17
+        ]
+      }
+    }
+  },
+  "uji_sifat_uniform_order_statistics": {
+    "ks_statistic": 0.14359076433121024,
+    "p_value": 4.109609220539343e-06,
+    "kesimpulan": "Menunjukkan deviasi dari uniformitas murni akibat fluktuasi intensitas harian"
+  },
+  "analisis_thinning_dan_superposisi": {
+    "medis": {
+      "jumlah": 209,
+      "proporsi_p": 0.6656050955414012,
+      "lambda_jam": 8.708333333333334
+    },
+    "non_medis": {
+      "jumlah": 105,
+      "proporsi_1_min_p": 0.3343949044585987,
+      "lambda_jam": 4.375
+    },
+    "verifikasi_superposisi": {
+      "sum_sub_lambdas": 13.083333333333334,
+      "lambda_induk": 13.083333333333334,
+      "selisih": 0.0
+    }
+  },
+  "waktu_tunggu_gamma": {
+    "W_10": {
+      "n": 10,
+      "E_W_hours": 0.7643312101910827,
+      "Std_W_hours": 0.2417027510956723,
+      "E_W_minutes": 45.859872611464965,
+      "Std_W_minutes": 14.502165065740337,
+      "Empirical_hours": 0.43333333333333335,
+      "Empirical_minutes": 26.0,
+      "CDF_at_empirical": 0.06304382192652787,
+      "in_1_sigma_interval": false
+    },
+    "W_30": {
+      "n": 30,
+      "E_W_hours": 2.2929936305732483,
+      "Std_W_hours": 0.4186414452268786,
+      "E_W_minutes": 137.5796178343949,
+      "Std_W_minutes": 25.118486713612715,
+      "Empirical_hours": 3.4166666666666665,
+      "Empirical_minutes": 205.0,
+      "CDF_at_empirical": 0.991768173167925,
+      "in_1_sigma_interval": false
+    },
+    "W_60": {
+      "n": 60,
+      "E_W_hours": 4.585987261146497,
+      "Std_W_hours": 0.5920484096113249,
+      "E_W_minutes": 275.1592356687898,
+      "Std_W_minutes": 35.522904576679494,
+      "Empirical_hours": 7.883333333333334,
+      "Empirical_minutes": 473.0,
+      "CDF_at_empirical": 0.9999983641072374,
+      "in_1_sigma_interval": false
+    },
+    "W_100": {
+      "n": 100,
+      "E_W_hours": 7.643312101910828,
+      "Std_W_hours": 0.7643312101910827,
+      "E_W_minutes": 458.5987261146497,
+      "Std_W_minutes": 45.859872611464965,
+      "Empirical_hours": 10.45,
+      "Empirical_minutes": 627.0,
+      "CDF_at_empirical": 0.9995689409654189,
+      "in_1_sigma_interval": false
+    },
+    "W_150": {
+      "n": 150,
+      "E_W_hours": 11.464968152866241,
+      "Std_W_hours": 0.9361107297260554,
+      "E_W_minutes": 687.8980891719744,
+      "Std_W_minutes": 56.16664378356332,
+      "Empirical_hours": 13.85,
+      "Empirical_minutes": 831.0,
+      "CDF_at_empirical": 0.9921684765853732,
+      "in_1_sigma_interval": false
+    },
+    "W_200": {
+      "n": 200,
+      "E_W_hours": 15.286624203821656,
+      "Std_W_hours": 1.0809275635972702,
+      "E_W_minutes": 917.1974522292994,
+      "Std_W_minutes": 64.8556538158362,
+      "Empirical_hours": 17.283333333333335,
+      "Empirical_minutes": 1037.0,
+      "CDF_at_empirical": 0.9637320281044279,
+      "in_1_sigma_interval": false
+    },
+    "W_300": {
+      "n": 300,
+      "E_W_hours": 22.929936305732483,
+      "Std_W_hours": 1.3238604898615622,
+      "E_W_minutes": 1375.796178343949,
+      "Std_W_minutes": 79.43162939169373,
+      "Empirical_hours": 22.866666666666667,
+      "Empirical_minutes": 1372.0,
+      "CDF_at_empirical": 0.48859785888470725,
+      "in_1_sigma_interval": true
+    }
+  },
+  "probabilitas_deduktif": {
+    "P_N_15min_0": 0.03797476824562275,
+    "P_N_15min_3": 0.22147215261254258,
+    "P_N_1hour_13": 0.10991057875775159
+  }
+}

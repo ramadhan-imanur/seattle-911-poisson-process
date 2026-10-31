@@ -1,0 +1,4712 @@
+[
+  {
+    "address": "8610 Aurora Ave N",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T00:00:00.000",
+    "latitude": "47.691354",
+    "longitude": "-122.344532",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.344532,
+        47.691354
+      ]
+    },
+    "incident_number": "F260151745"
+  },
+  {
+    "address": "3RD AVE / BLANCHARD ST",
+    "type": "Medic Response- Overdose",
+    "datetime": "2026-10-23T00:07:00.000",
+    "latitude": "47.613936",
+    "longitude": "-122.343494",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.343494,
+        47.613936
+      ]
+    },
+    "incident_number": "F260151746"
+  },
+  {
+    "address": "5240 UNIVERSITY WAY NE",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T00:07:00.000",
+    "latitude": "47.666712",
+    "longitude": "-122.313047",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.313047,
+        47.666712
+      ]
+    },
+    "incident_number": "F260151747"
+  },
+  {
+    "address": "9201 Rainier Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T00:10:00.000",
+    "latitude": "47.52101",
+    "longitude": "-122.269997",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.269997,
+        47.52101
+      ]
+    },
+    "incident_number": "F260151748"
+  },
+  {
+    "address": "9613 Aurora Ave N",
+    "type": "Scenes Of Violence 7",
+    "datetime": "2026-10-23T00:11:00.000",
+    "latitude": "47.698825",
+    "longitude": "-122.34462",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.34462,
+        47.698825
+      ]
+    },
+    "incident_number": "F260151750"
+  },
+  {
+    "address": "6339 34th Ave Sw",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T00:11:00.000",
+    "latitude": "47.546219",
+    "longitude": "-122.375056",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.375056,
+        47.546219
+      ]
+    },
+    "incident_number": "F260151749"
+  },
+  {
+    "address": "11th Ave / E Olive St",
+    "type": "Illegal Burn",
+    "datetime": "2026-10-23T00:17:00.000",
+    "latitude": "47.616422",
+    "longitude": "-122.318178",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.318178,
+        47.616422
+      ]
+    },
+    "incident_number": "F260151751"
+  },
+  {
+    "address": "12010 31st Ave Ne",
+    "type": "Alarm Bell",
+    "datetime": "2026-10-23T00:20:00.000",
+    "latitude": "47.71563",
+    "longitude": "-122.295256",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.295256,
+        47.71563
+      ]
+    },
+    "incident_number": "F260151752"
+  },
+  {
+    "address": "1034 6th Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T00:25:00.000",
+    "latitude": "47.593793",
+    "longitude": "-122.325968",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.325968,
+        47.593793
+      ]
+    },
+    "incident_number": "F260151754"
+  },
+  {
+    "address": "1519 12th Ave",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T00:26:00.000",
+    "latitude": "47.614317",
+    "longitude": "-122.316839",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.316839,
+        47.614317
+      ]
+    },
+    "incident_number": "F260151755"
+  },
+  {
+    "address": "2115 California Ave Sw",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T00:32:00.000",
+    "latitude": "47.585161",
+    "longitude": "-122.386379",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.386379,
+        47.585161
+      ]
+    },
+    "incident_number": "F260151759"
+  },
+  {
+    "address": "1535 S Dawson St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T00:32:00.000",
+    "latitude": "47.555623",
+    "longitude": "-122.312937",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.312937,
+        47.555623
+      ]
+    },
+    "incident_number": "F260151758"
+  },
+  {
+    "address": "1501 1st Ave S",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T00:40:00.000",
+    "latitude": "47.590302",
+    "longitude": "-122.334195",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.334195,
+        47.590302
+      ]
+    },
+    "incident_number": "F260151760"
+  },
+  {
+    "address": "9414 Roosevelt Way Ne",
+    "type": "Natural Gas Leak",
+    "datetime": "2026-10-23T00:42:00.000",
+    "latitude": "47.696865",
+    "longitude": "-122.317585",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.317585,
+        47.696865
+      ]
+    },
+    "incident_number": "F260151762"
+  },
+  {
+    "address": "Queen Anne Ave N / Harrison St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T00:46:00.000",
+    "latitude": "47.622108",
+    "longitude": "-122.356729",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.356729,
+        47.622108
+      ]
+    },
+    "incident_number": "F260151763"
+  },
+  {
+    "address": "9th Ave / Jefferson St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T00:52:00.000",
+    "latitude": "47.604841",
+    "longitude": "-122.324097",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.324097,
+        47.604841
+      ]
+    },
+    "incident_number": "F260151765"
+  },
+  {
+    "address": "5217 S Brighton St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T00:55:00.000",
+    "latitude": "47.541584",
+    "longitude": "-122.266796",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.266796,
+        47.541584
+      ]
+    },
+    "incident_number": "F260151766"
+  },
+  {
+    "address": "924 N 143rd St",
+    "type": "Alarm Bell",
+    "datetime": "2026-10-23T01:00:00.000",
+    "latitude": "47.732314",
+    "longitude": "-122.346635",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.346635,
+        47.732314
+      ]
+    },
+    "incident_number": "F260151768"
+  },
+  {
+    "address": "6410 9th Ave Ne",
+    "type": "Dumpster Fire W/Exp.",
+    "datetime": "2026-10-23T01:26:00.000",
+    "latitude": "47.675065",
+    "longitude": "-122.318703",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.318703,
+        47.675065
+      ]
+    },
+    "incident_number": "F260151772"
+  },
+  {
+    "address": "1525 14th Ave",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T01:42:00.000",
+    "latitude": "47.614406",
+    "longitude": "-122.314228",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.314228,
+        47.614406
+      ]
+    },
+    "incident_number": "F260151776"
+  },
+  {
+    "address": "515 3rd Ave",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T01:51:00.000",
+    "latitude": "47.602158",
+    "longitude": "-122.330849",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.330849,
+        47.602158
+      ]
+    },
+    "incident_number": "F260151778"
+  },
+  {
+    "address": "1901 Franklin Ave E",
+    "type": "1RED 1 Unit",
+    "datetime": "2026-10-23T02:25:00.000",
+    "latitude": "47.635873",
+    "longitude": "-122.32447",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.32447,
+        47.635873
+      ]
+    },
+    "incident_number": "F260151783"
+  },
+  {
+    "address": "442 S Main St",
+    "type": "Rescue Elevator",
+    "datetime": "2026-10-23T02:55:00.000",
+    "latitude": "47.600035",
+    "longitude": "-122.328407",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.328407,
+        47.600035
+      ]
+    },
+    "incident_number": "F260151787"
+  },
+  {
+    "address": "169 19th Ave",
+    "type": "Activated CO Detector",
+    "datetime": "2026-10-23T02:55:00.000",
+    "latitude": "47.60299",
+    "longitude": "-122.307661",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.307661,
+        47.60299
+      ]
+    },
+    "incident_number": "F260151788"
+  },
+  {
+    "address": "715 9th Ave",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T02:57:00.000",
+    "latitude": "47.606371",
+    "longitude": "-122.325496",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.325496,
+        47.606371
+      ]
+    },
+    "incident_number": "F260151789"
+  },
+  {
+    "address": "1001 E Pine St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T03:03:00.000",
+    "latitude": "47.615245",
+    "longitude": "-122.319465",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.319465,
+        47.615245
+      ]
+    },
+    "incident_number": "F260151791"
+  },
+  {
+    "address": "1400 6th Ave",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T03:06:00.000",
+    "latitude": "47.61015",
+    "longitude": "-122.333556",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.333556,
+        47.61015
+      ]
+    },
+    "incident_number": "F260151792"
+  },
+  {
+    "address": "800 Jefferson St",
+    "type": "3RED - 1 +1 + 1",
+    "datetime": "2026-10-23T03:20:00.000",
+    "latitude": "47.604315",
+    "longitude": "-122.32531",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.32531,
+        47.604315
+      ]
+    },
+    "incident_number": "F260151793"
+  },
+  {
+    "address": "1906 44th Ave Sw",
+    "type": "Activated CO Detector",
+    "datetime": "2026-10-23T03:22:00.000",
+    "latitude": "47.586748",
+    "longitude": "-122.387661",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.387661,
+        47.586748
+      ]
+    },
+    "incident_number": "F260151794"
+  },
+  {
+    "address": "Broadway E / E John St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T03:25:00.000",
+    "latitude": "47.619908",
+    "longitude": "-122.320873",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.320873,
+        47.619908
+      ]
+    },
+    "incident_number": "F260151795"
+  },
+  {
+    "address": "924 N 143rd St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T03:31:00.000",
+    "latitude": "47.732314",
+    "longitude": "-122.346635",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.346635,
+        47.732314
+      ]
+    },
+    "incident_number": "F260151796"
+  },
+  {
+    "address": "1000 1st Ave",
+    "type": "Rescue Elevator",
+    "datetime": "2026-10-23T03:41:00.000",
+    "latitude": "47.604695",
+    "longitude": "-122.336238",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.336238,
+        47.604695
+      ]
+    },
+    "incident_number": "F260151799"
+  },
+  {
+    "address": "1400 Madison St",
+    "type": "Rescue Elevator",
+    "datetime": "2026-10-23T04:13:00.000",
+    "latitude": "47.61073",
+    "longitude": "-122.32181",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.32181,
+        47.61073
+      ]
+    },
+    "incident_number": "F260151802"
+  },
+  {
+    "address": "2336 25TH AVE S",
+    "type": "Illegal Burn",
+    "datetime": "2026-10-23T04:30:00.000",
+    "latitude": "47.582626",
+    "longitude": "-122.300345",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.300345,
+        47.582626
+      ]
+    },
+    "incident_number": "F260151805"
+  },
+  {
+    "address": "2024 Nw 62nd St",
+    "type": "Investigate Out Of Service",
+    "datetime": "2026-10-23T04:47:00.000",
+    "latitude": "47.673827",
+    "longitude": "-122.382431",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.382431,
+        47.673827
+      ]
+    },
+    "incident_number": "F260151807"
+  },
+  {
+    "address": "N 125th St / Aurora Ave N",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T04:50:00.000",
+    "latitude": "47.719572",
+    "longitude": "-122.344937",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.344937,
+        47.719572
+      ]
+    },
+    "incident_number": "F260151808"
+  },
+  {
+    "address": "4521 S Mead St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T04:59:00.000",
+    "latitude": "47.550423",
+    "longitude": "-122.276871",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.276871,
+        47.550423
+      ]
+    },
+    "incident_number": "F260151809"
+  },
+  {
+    "address": "13725 32nd Ave Ne",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T05:11:00.000",
+    "latitude": "47.728366",
+    "longitude": "-122.293639",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.293639,
+        47.728366
+      ]
+    },
+    "incident_number": "F260151812"
+  },
+  {
+    "address": "4500 15th Ave Nw",
+    "type": "MVI - Motor Vehicle Incident",
+    "datetime": "2026-10-23T05:20:00.000",
+    "latitude": "47.661872",
+    "longitude": "-122.376106",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.376106,
+        47.661872
+      ]
+    },
+    "incident_number": "F260151816"
+  },
+  {
+    "address": "1309 N Northgate Way",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T05:30:00.000",
+    "latitude": "47.705048",
+    "longitude": "-122.341879",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.341879,
+        47.705048
+      ]
+    },
+    "incident_number": "F260151818"
+  },
+  {
+    "address": "3rd Ave / Pine St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T05:39:00.000",
+    "latitude": "47.610743",
+    "longitude": "-122.338702",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.338702,
+        47.610743
+      ]
+    },
+    "incident_number": "F260151820"
+  },
+  {
+    "address": "1902 2nd Ave",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T05:59:00.000",
+    "latitude": "47.610972",
+    "longitude": "-122.340465",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.340465,
+        47.610972
+      ]
+    },
+    "incident_number": "F260151823"
+  },
+  {
+    "address": "157 12th Ave",
+    "type": "Illegal Burn",
+    "datetime": "2026-10-23T06:04:00.000",
+    "latitude": "47.60279",
+    "longitude": "-122.316782",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.316782,
+        47.60279
+      ]
+    },
+    "incident_number": "F260151824"
+  },
+  {
+    "address": "147 N 132nd St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T06:07:00.000",
+    "latitude": "47.725059",
+    "longitude": "-122.357384",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.357384,
+        47.725059
+      ]
+    },
+    "incident_number": "F260151825"
+  },
+  {
+    "address": "Western Ave / Bell St",
+    "type": "Illegal Burn",
+    "datetime": "2026-10-23T06:14:00.000",
+    "latitude": "47.61271",
+    "longitude": "-122.347372",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.347372,
+        47.61271
+      ]
+    },
+    "incident_number": "F260151827"
+  },
+  {
+    "address": "801 Alaskan Way",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T06:17:00.000",
+    "latitude": "47.602422",
+    "longitude": "-122.33696",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.33696,
+        47.602422
+      ]
+    },
+    "incident_number": "F260151829"
+  },
+  {
+    "address": "8123 East Marginal Way S",
+    "type": "Mutual Aid- Medic",
+    "datetime": "2026-10-23T06:21:00.000",
+    "latitude": "47.530281",
+    "longitude": "-122.306536",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.306536,
+        47.530281
+      ]
+    },
+    "incident_number": "V260151833"
+  },
+  {
+    "address": "450 Ne 100th St",
+    "type": "Aid Response Yellow",
+    "datetime": "2026-10-23T06:25:00.000",
+    "latitude": "47.701329",
+    "longitude": "-122.323684",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.323684,
+        47.701329
+      ]
+    },
+    "incident_number": "F260151835"
+  },
+  {
+    "address": "1410 Ne 66th St",
+    "type": "1RED 1 Unit",
+    "datetime": "2026-10-23T06:32:00.000",
+    "latitude": "47.676516",
+    "longitude": "-122.313014",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.313014,
+        47.676516
+      ]
+    },
+    "incident_number": "F260151838"
+  },
+  {
+    "address": "15TH AVE NE / NE 166TH ST",
+    "type": "1RED 1 Unit",
+    "datetime": "2026-10-23T06:32:00.000",
+    "latitude": "47.749369",
+    "longitude": "-122.313185",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.313185,
+        47.749369
+      ]
+    },
+    "incident_number": "F260151842"
+  },
+  {
+    "address": "15TH AVE NE / NE 68TH ST",
+    "type": "1RED 1 Unit",
+    "datetime": "2026-10-23T06:32:00.000",
+    "latitude": "47.678041",
+    "longitude": "-122.311976",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.311976,
+        47.678041
+      ]
+    },
+    "incident_number": "F260151840"
+  },
+  {
+    "address": "1410 NE 66TH ST",
+    "type": "1RED 1 Unit",
+    "datetime": "2026-10-23T06:32:00.000",
+    "latitude": "47.676516",
+    "longitude": "-122.313014",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.313014,
+        47.676516
+      ]
+    },
+    "incident_number": "F260151841"
+  },
+  {
+    "address": "1410 Ne 66th St",
+    "type": "1RED 1 Unit",
+    "datetime": "2026-10-23T06:32:00.000",
+    "latitude": "47.676516",
+    "longitude": "-122.313014",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.313014,
+        47.676516
+      ]
+    },
+    "incident_number": "F260151843"
+  },
+  {
+    "address": "2424 Ne 65th St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T06:36:00.000",
+    "latitude": "47.675774",
+    "longitude": "-122.301424",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.301424,
+        47.675774
+      ]
+    },
+    "incident_number": "F260151844"
+  },
+  {
+    "address": "820 W Blaine St",
+    "type": "Medic Response- 7 per Rule",
+    "datetime": "2026-10-23T07:18:00.000",
+    "latitude": "47.634737",
+    "longitude": "-122.367962",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.367962,
+        47.634737
+      ]
+    },
+    "incident_number": "F260151846"
+  },
+  {
+    "address": "6561 Phinney Ave N",
+    "type": "2RED - 1 + 1",
+    "datetime": "2026-10-23T07:39:00.000",
+    "latitude": "47.677068",
+    "longitude": "-122.354359",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.354359,
+        47.677068
+      ]
+    },
+    "incident_number": "F260151851"
+  },
+  {
+    "address": "12028 32nd Ave Ne",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T07:41:00.000",
+    "latitude": "47.715717",
+    "longitude": "-122.294049",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.294049,
+        47.715717
+      ]
+    },
+    "incident_number": "F260151852"
+  },
+  {
+    "address": "1400 Madison St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T07:48:00.000",
+    "latitude": "47.61073",
+    "longitude": "-122.32181",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.32181,
+        47.61073
+      ]
+    },
+    "incident_number": "F260151853"
+  },
+  {
+    "address": "11040 35th Ave Ne",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T07:49:00.000",
+    "latitude": "47.708609",
+    "longitude": "-122.290755",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.290755,
+        47.708609
+      ]
+    },
+    "incident_number": "F260151854"
+  },
+  {
+    "address": "5051 50th Ave Ne",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T07:53:00.000",
+    "latitude": "47.665537",
+    "longitude": "-122.274078",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.274078,
+        47.665537
+      ]
+    },
+    "incident_number": "F260151856"
+  },
+  {
+    "address": "6561 Phinney Ave N",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T07:55:00.000",
+    "latitude": "47.677068",
+    "longitude": "-122.354359",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.354359,
+        47.677068
+      ]
+    },
+    "incident_number": "F260151857"
+  },
+  {
+    "address": "6351 36th Ave Sw",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T07:57:00.000",
+    "latitude": "47.54606",
+    "longitude": "-122.377761",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.377761,
+        47.54606
+      ]
+    },
+    "incident_number": "F260151858"
+  },
+  {
+    "address": "13000 Linden Ave N",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T08:01:00.000",
+    "latitude": "47.723218",
+    "longitude": "-122.348195",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.348195,
+        47.723218
+      ]
+    },
+    "incident_number": "F260151859"
+  },
+  {
+    "address": "6519 43rd Ave S",
+    "type": "Automatic Fire Alarm Resd",
+    "datetime": "2026-10-23T08:06:00.000",
+    "latitude": "47.544048",
+    "longitude": "-122.279776",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.279776,
+        47.544048
+      ]
+    },
+    "incident_number": "F260151860"
+  },
+  {
+    "address": "4750 15th Ave Ne",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T08:07:00.000",
+    "latitude": "47.663381",
+    "longitude": "-122.311961",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.311961,
+        47.663381
+      ]
+    },
+    "incident_number": "F260151861"
+  },
+  {
+    "address": "2418 Nw 56th St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T08:07:00.000",
+    "latitude": "47.669458",
+    "longitude": "-122.387807",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.387807,
+        47.669458
+      ]
+    },
+    "incident_number": "F260151862"
+  },
+  {
+    "address": "100 Crockett St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T08:12:00.000",
+    "latitude": "47.637416",
+    "longitude": "-122.355598",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.355598,
+        47.637416
+      ]
+    },
+    "incident_number": "F260151863"
+  },
+  {
+    "address": "800 S Cloverdale St",
+    "type": "TEST - MIS TEST",
+    "datetime": "2026-10-23T08:21:00.000",
+    "latitude": "47.526465",
+    "longitude": "-122.322916",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.322916,
+        47.526465
+      ]
+    },
+    "incident_number": "F260151864"
+  },
+  {
+    "address": "801 11th Ave",
+    "type": "Rescue Elevator",
+    "datetime": "2026-10-23T08:22:00.000",
+    "latitude": "47.609232",
+    "longitude": "-122.31806",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.31806,
+        47.609232
+      ]
+    },
+    "incident_number": "F260151866"
+  },
+  {
+    "address": "S ELMGROVE ST / RAINIER AVE S",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T08:22:00.000",
+    "latitude": "47.530349",
+    "longitude": "-122.269989",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.269989,
+        47.530349
+      ]
+    },
+    "incident_number": "F260151867"
+  },
+  {
+    "address": "1549 Ne 145th St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T08:27:00.000",
+    "latitude": "47.733944",
+    "longitude": "-122.312087",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.312087,
+        47.733944
+      ]
+    },
+    "incident_number": "F260151869"
+  },
+  {
+    "address": "324 26th Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T08:32:00.000",
+    "latitude": "47.599893",
+    "longitude": "-122.298648",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.298648,
+        47.599893
+      ]
+    },
+    "incident_number": "F260151870"
+  },
+  {
+    "address": "5270 Rainier Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T08:34:00.000",
+    "latitude": "47.554937",
+    "longitude": "-122.282393",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.282393,
+        47.554937
+      ]
+    },
+    "incident_number": "F260151871"
+  },
+  {
+    "address": "4316 S Genesee St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T08:41:00.000",
+    "latitude": "47.564086",
+    "longitude": "-122.279299",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.279299,
+        47.564086
+      ]
+    },
+    "incident_number": "F260151874"
+  },
+  {
+    "address": "622 Rainier Ave S",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T08:55:00.000",
+    "latitude": "47.597303",
+    "longitude": "-122.312617",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.312617,
+        47.597303
+      ]
+    },
+    "incident_number": "F260151876"
+  },
+  {
+    "address": "5055 Pullman Ave Ne",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T08:57:00.000",
+    "latitude": "47.66963",
+    "longitude": "-122.273305",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.273305,
+        47.66963
+      ]
+    },
+    "incident_number": "F260151877"
+  },
+  {
+    "address": "904 7th Ave",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T09:02:00.000",
+    "latitude": "47.606866",
+    "longitude": "-122.329021",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.329021,
+        47.606866
+      ]
+    },
+    "incident_number": "F260151878"
+  },
+  {
+    "address": "PALATINE AVE N / N MARKET ST",
+    "type": "Scenes Of Violence 7",
+    "datetime": "2026-10-23T09:15:00.000",
+    "latitude": "47.662565",
+    "longitude": "-122.356534",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.356534,
+        47.662565
+      ]
+    },
+    "incident_number": "F260151882"
+  },
+  {
+    "address": "25th Ave S / S Walker St",
+    "type": "Illegal Burn",
+    "datetime": "2026-10-23T09:16:00.000",
+    "latitude": "47.583647",
+    "longitude": "-122.300334",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.300334,
+        47.583647
+      ]
+    },
+    "incident_number": "F260151884"
+  },
+  {
+    "address": "2758 Alki Ave Sw",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T09:18:00.000",
+    "latitude": "47.578954",
+    "longitude": "-122.411233",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.411233,
+        47.578954
+      ]
+    },
+    "incident_number": "F260151885"
+  },
+  {
+    "address": "1903 31st Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T09:19:00.000",
+    "latitude": "47.586254",
+    "longitude": "-122.293003",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.293003,
+        47.586254
+      ]
+    },
+    "incident_number": "F260151886"
+  },
+  {
+    "address": "4900 STONE WAY N",
+    "type": "Engine Code Red",
+    "datetime": "2026-10-23T09:22:00.000",
+    "latitude": "47.66429",
+    "longitude": "-122.340687",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.340687,
+        47.66429
+      ]
+    },
+    "incident_number": "F260151887"
+  },
+  {
+    "address": "1701 18th Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T09:25:00.000",
+    "latitude": "47.588414",
+    "longitude": "-122.309467",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.309467,
+        47.588414
+      ]
+    },
+    "incident_number": "F260151888"
+  },
+  {
+    "address": "4719 12th Ave Ne",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T09:25:00.000",
+    "latitude": "47.663215",
+    "longitude": "-122.315262",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.315262,
+        47.663215
+      ]
+    },
+    "incident_number": "F260151889"
+  },
+  {
+    "address": "614 S RIVERSIDE DR",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T09:26:00.000",
+    "latitude": "47.535045",
+    "longitude": "-122.326324",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.326324,
+        47.535045
+      ]
+    },
+    "incident_number": "F260151898"
+  },
+  {
+    "address": "85 S Washington St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T09:28:00.000",
+    "latitude": "47.600884",
+    "longitude": "-122.334642",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.334642,
+        47.600884
+      ]
+    },
+    "incident_number": "F260151891"
+  },
+  {
+    "address": "1431 Minor Ave",
+    "type": "Crisis Center",
+    "datetime": "2026-10-23T09:32:00.000",
+    "latitude": "47.613247",
+    "longitude": "-122.327187",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.327187,
+        47.613247
+      ]
+    },
+    "incident_number": "F260151893"
+  },
+  {
+    "address": "5149 S Augusta St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T09:32:00.000",
+    "latitude": "47.500056",
+    "longitude": "-122.269616",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.269616,
+        47.500056
+      ]
+    },
+    "incident_number": "F260151894"
+  },
+  {
+    "address": "924 N 143rd St",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T09:33:00.000",
+    "latitude": "47.732314",
+    "longitude": "-122.346635",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.346635,
+        47.732314
+      ]
+    },
+    "incident_number": "F260151895"
+  },
+  {
+    "address": "E MADISON ST / MARTIN LUTHER KING JR WAY E",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T09:34:00.000",
+    "latitude": "47.623317",
+    "longitude": "-122.296424",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.296424,
+        47.623317
+      ]
+    },
+    "incident_number": "F260151896"
+  },
+  {
+    "address": "13300 Stone Ave N",
+    "type": "Crisis Center",
+    "datetime": "2026-10-23T09:36:00.000",
+    "latitude": "47.725515",
+    "longitude": "-122.3423",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.3423,
+        47.725515
+      ]
+    },
+    "incident_number": "F260151897"
+  },
+  {
+    "address": "1110 18th Ave E",
+    "type": "Ladder Code Yellow",
+    "datetime": "2026-10-23T09:39:00.000",
+    "latitude": "47.628854",
+    "longitude": "-122.308616",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.308616,
+        47.628854
+      ]
+    },
+    "incident_number": "F260151899"
+  },
+  {
+    "address": "101 6th Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T09:47:00.000",
+    "latitude": "47.601701",
+    "longitude": "-122.326351",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.326351,
+        47.601701
+      ]
+    },
+    "incident_number": "F260151902"
+  },
+  {
+    "address": "1431 Minor Ave",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T09:52:00.000",
+    "latitude": "47.613247",
+    "longitude": "-122.327187",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.327187,
+        47.613247
+      ]
+    },
+    "incident_number": "F260151903"
+  },
+  {
+    "address": "3435 15th Ave W",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T09:53:00.000",
+    "latitude": "47.650655",
+    "longitude": "-122.376289",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.376289,
+        47.650655
+      ]
+    },
+    "incident_number": "F260151904"
+  },
+  {
+    "address": "7520 35th Ave Sw",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T09:55:00.000",
+    "latitude": "47.535332",
+    "longitude": "-122.376607",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.376607,
+        47.535332
+      ]
+    },
+    "incident_number": "F260151905"
+  },
+  {
+    "address": "1020 S Main St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T09:57:00.000",
+    "latitude": "47.600078",
+    "longitude": "-122.318873",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.318873,
+        47.600078
+      ]
+    },
+    "incident_number": "F260151908"
+  },
+  {
+    "address": "800 4th Ave N",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T10:04:00.000",
+    "latitude": "47.626286",
+    "longitude": "-122.348863",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.348863,
+        47.626286
+      ]
+    },
+    "incident_number": "F260151909"
+  },
+  {
+    "address": "4642 S Kenyon St",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T10:08:00.000",
+    "latitude": "47.531561",
+    "longitude": "-122.27424",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.27424,
+        47.531561
+      ]
+    },
+    "incident_number": "F260151910"
+  },
+  {
+    "address": "3460 1st Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T10:27:00.000",
+    "latitude": "47.573088",
+    "longitude": "-122.334081",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.334081,
+        47.573088
+      ]
+    },
+    "incident_number": "F260151911"
+  },
+  {
+    "address": "5616 30th Ave Sw",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T10:29:00.000",
+    "latitude": "47.55169",
+    "longitude": "-122.370947",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.370947,
+        47.55169
+      ]
+    },
+    "incident_number": "F260151912"
+  },
+  {
+    "address": "2167 Boyer Ave E",
+    "type": "Automatic Fire Alarm Resd",
+    "datetime": "2026-10-23T10:30:00.000",
+    "latitude": "47.639036",
+    "longitude": "-122.30965",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.30965,
+        47.639036
+      ]
+    },
+    "incident_number": "F260151913"
+  },
+  {
+    "address": "4628 S Holly St",
+    "type": "Aid Response Yellow",
+    "datetime": "2026-10-23T10:34:00.000",
+    "latitude": "47.542466",
+    "longitude": "-122.275011",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.275011,
+        47.542466
+      ]
+    },
+    "incident_number": "F260151914"
+  },
+  {
+    "address": "210 Fairview Ave N",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T10:47:00.000",
+    "latitude": "47.619773",
+    "longitude": "-122.334262",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.334262,
+        47.619773
+      ]
+    },
+    "incident_number": "F260151917"
+  },
+  {
+    "address": "10203 47th Ave Sw",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T10:53:00.000",
+    "latitude": "47.511811",
+    "longitude": "-122.392922",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.392922,
+        47.511811
+      ]
+    },
+    "incident_number": "F260151918"
+  },
+  {
+    "address": "901 S Main St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T10:55:00.000",
+    "latitude": "47.600213",
+    "longitude": "-122.319139",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.319139,
+        47.600213
+      ]
+    },
+    "incident_number": "F260151920"
+  },
+  {
+    "address": "607 3rd Ave",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T10:56:00.000",
+    "latitude": "47.602813",
+    "longitude": "-122.331449",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.331449,
+        47.602813
+      ]
+    },
+    "incident_number": "F260151921"
+  },
+  {
+    "address": "3rd Ave / Pine St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T10:59:00.000",
+    "latitude": "47.610743",
+    "longitude": "-122.338702",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.338702,
+        47.610743
+      ]
+    },
+    "incident_number": "F260151922"
+  },
+  {
+    "address": "2444 SW HOLDEN ST",
+    "type": "Illegal Burn",
+    "datetime": "2026-10-23T11:00:00.000",
+    "latitude": "47.533699",
+    "longitude": "-122.363751",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.363751,
+        47.533699
+      ]
+    },
+    "incident_number": "F260151923"
+  },
+  {
+    "address": "610 7th Ave S",
+    "type": "Low Acuity Response",
+    "datetime": "2026-10-23T11:04:00.000",
+    "latitude": "47.597425",
+    "longitude": "-122.323757",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.323757,
+        47.597425
+      ]
+    },
+    "incident_number": "F260151925"
+  },
+  {
+    "address": "1145 Republican St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T11:05:00.000",
+    "latitude": "47.623193",
+    "longitude": "-122.334412",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.334412,
+        47.623193
+      ]
+    },
+    "incident_number": "F260151926"
+  },
+  {
+    "address": "100 Melrose Ave E",
+    "type": "Aid Response Yellow",
+    "datetime": "2026-10-23T11:09:00.000",
+    "latitude": "47.618497",
+    "longitude": "-122.327854",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.327854,
+        47.618497
+      ]
+    },
+    "incident_number": "F260151928"
+  },
+  {
+    "address": "223 W Galer St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T11:18:00.000",
+    "latitude": "47.632321",
+    "longitude": "-122.359809",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.359809,
+        47.632321
+      ]
+    },
+    "incident_number": "F260151931"
+  },
+  {
+    "address": "1100 Fairview Ave N",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T11:24:00.000",
+    "latitude": "47.628713",
+    "longitude": "-122.330907",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.330907,
+        47.628713
+      ]
+    },
+    "incident_number": "F260151934"
+  },
+  {
+    "address": "Rainier Ave S / S Alaska St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T11:29:00.000",
+    "latitude": "47.560748",
+    "longitude": "-122.287027",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.287027,
+        47.560748
+      ]
+    },
+    "incident_number": "F260151936"
+  },
+  {
+    "address": "1212 S King St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T11:43:00.000",
+    "latitude": "47.598338",
+    "longitude": "-122.316996",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.316996,
+        47.598338
+      ]
+    },
+    "incident_number": "F260151940"
+  },
+  {
+    "address": "1907 E John St",
+    "type": "2RED - 1 + 1",
+    "datetime": "2026-10-23T11:47:00.000",
+    "latitude": "47.619665",
+    "longitude": "-122.307271",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.307271,
+        47.619665
+      ]
+    },
+    "incident_number": "F260151941"
+  },
+  {
+    "address": "13053 20th Ave Ne",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T11:57:00.000",
+    "latitude": "47.723299",
+    "longitude": "-122.307274",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.307274,
+        47.723299
+      ]
+    },
+    "incident_number": "F260151946"
+  },
+  {
+    "address": "322 N 127th St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T11:57:00.000",
+    "latitude": "47.721417",
+    "longitude": "-122.355237",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.355237,
+        47.721417
+      ]
+    },
+    "incident_number": "F260151945"
+  },
+  {
+    "address": "305 Harrison St",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T11:57:00.000",
+    "latitude": "47.622089",
+    "longitude": "-122.351371",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.351371,
+        47.622089
+      ]
+    },
+    "incident_number": "F260151947"
+  },
+  {
+    "address": "3928 S Graham St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T11:58:00.000",
+    "latitude": "47.546018",
+    "longitude": "-122.283106",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.283106,
+        47.546018
+      ]
+    },
+    "incident_number": "F260151949"
+  },
+  {
+    "address": "3928 S GRAHAM ST",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T11:58:00.000",
+    "latitude": "47.546018",
+    "longitude": "-122.283106",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.283106,
+        47.546018
+      ]
+    },
+    "incident_number": "F260151950"
+  },
+  {
+    "address": "3295 Sw Avalon Way",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T12:02:00.000",
+    "latitude": "47.56411",
+    "longitude": "-122.373469",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.373469,
+        47.56411
+      ]
+    },
+    "incident_number": "F260151951"
+  },
+  {
+    "address": "1422 19th Ave",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T12:03:00.000",
+    "latitude": "47.613155",
+    "longitude": "-122.307499",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.307499,
+        47.613155
+      ]
+    },
+    "incident_number": "F260151952"
+  },
+  {
+    "address": "700 Union St",
+    "type": "Automatic Fire Alarm False",
+    "datetime": "2026-10-23T12:09:00.000",
+    "latitude": "47.610614",
+    "longitude": "-122.332447",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.332447,
+        47.610614
+      ]
+    },
+    "incident_number": "F260151953"
+  },
+  {
+    "address": "715 Spring St",
+    "type": "Medic Response- Overdose",
+    "datetime": "2026-10-23T12:13:00.000",
+    "latitude": "47.608268",
+    "longitude": "-122.330056",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.330056,
+        47.608268
+      ]
+    },
+    "incident_number": "F260151956"
+  },
+  {
+    "address": "1501 2nd Ave",
+    "type": "Rescue Elevator",
+    "datetime": "2026-10-23T12:14:00.000",
+    "latitude": "47.609285",
+    "longitude": "-122.338904",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.338904,
+        47.609285
+      ]
+    },
+    "incident_number": "F260151957"
+  },
+  {
+    "address": "42nd Ave E / E Mcgilvra St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T12:14:00.000",
+    "latitude": "47.640705",
+    "longitude": "-122.278413",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.278413,
+        47.640705
+      ]
+    },
+    "incident_number": "F260151958"
+  },
+  {
+    "address": "13329 19th Ave Ne",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T12:25:00.000",
+    "latitude": "47.72562",
+    "longitude": "-122.30908",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.30908,
+        47.72562
+      ]
+    },
+    "incident_number": "F260151964"
+  },
+  {
+    "address": "10737 Roosevelt Way Ne",
+    "type": "Low Acuity Response",
+    "datetime": "2026-10-23T12:33:00.000",
+    "latitude": "47.707117",
+    "longitude": "-122.317831",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.317831,
+        47.707117
+      ]
+    },
+    "incident_number": "F260151965"
+  },
+  {
+    "address": "520 Ne Northgate Way",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T12:36:00.000",
+    "latitude": "47.708593",
+    "longitude": "-122.323093",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.323093,
+        47.708593
+      ]
+    },
+    "incident_number": "F260151966"
+  },
+  {
+    "address": "42nd Ave E / E Mcgilvra St",
+    "type": "Low Acuity Response",
+    "datetime": "2026-10-23T12:40:00.000",
+    "latitude": "47.640705",
+    "longitude": "-122.278413",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.278413,
+        47.640705
+      ]
+    },
+    "incident_number": "F260151967"
+  },
+  {
+    "address": "901 S Main St",
+    "type": "Investigate Out Of Service",
+    "datetime": "2026-10-23T12:49:00.000",
+    "latitude": "47.600213",
+    "longitude": "-122.319139",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.319139,
+        47.600213
+      ]
+    },
+    "incident_number": "F260151968"
+  },
+  {
+    "address": "606 20th Ave",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T12:54:00.000",
+    "latitude": "47.607215",
+    "longitude": "-122.306325",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.306325,
+        47.607215
+      ]
+    },
+    "incident_number": "F260151969"
+  },
+  {
+    "address": "6417 Roosevelt Way Ne",
+    "type": "Fuel Spill",
+    "datetime": "2026-10-23T13:03:00.000",
+    "latitude": "47.675118",
+    "longitude": "-122.317363",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.317363,
+        47.675118
+      ]
+    },
+    "incident_number": "F260151970"
+  },
+  {
+    "address": "19TH AVE S / S BAYVIEW ST",
+    "type": "MVI - Motor Vehicle Incident",
+    "datetime": "2026-10-23T13:16:00.000",
+    "latitude": "47.580994",
+    "longitude": "-122.308186",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.308186,
+        47.580994
+      ]
+    },
+    "incident_number": "F260151974"
+  },
+  {
+    "address": "12546 33rd Ave Ne",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T13:17:00.000",
+    "latitude": "47.719585",
+    "longitude": "-122.292729",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.292729,
+        47.719585
+      ]
+    },
+    "incident_number": "F260151975"
+  },
+  {
+    "address": "3808 S Willow St",
+    "type": "Poison Control",
+    "datetime": "2026-10-23T13:21:00.000",
+    "latitude": "47.540661",
+    "longitude": "-122.284653",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.284653,
+        47.540661
+      ]
+    },
+    "incident_number": "F260151976"
+  },
+  {
+    "address": "11540 Pinehurst Way Ne",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T13:25:00.000",
+    "latitude": "47.712546",
+    "longitude": "-122.314732",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.314732,
+        47.712546
+      ]
+    },
+    "incident_number": "F260151977"
+  },
+  {
+    "address": "12521 33rd Ave Ne",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T13:28:00.000",
+    "latitude": "47.719406",
+    "longitude": "-122.292729",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.292729,
+        47.719406
+      ]
+    },
+    "incident_number": "F260151978"
+  },
+  {
+    "address": "305 Harrison St",
+    "type": "Crisis Center",
+    "datetime": "2026-10-23T13:30:00.000",
+    "latitude": "47.622089",
+    "longitude": "-122.351371",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.351371,
+        47.622089
+      ]
+    },
+    "incident_number": "F260151979"
+  },
+  {
+    "address": "6727 Rainier Ave S",
+    "type": "Aid Response Yellow",
+    "datetime": "2026-10-23T13:32:00.000",
+    "latitude": "47.542238",
+    "longitude": "-122.272642",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.272642,
+        47.542238
+      ]
+    },
+    "incident_number": "F260151980"
+  },
+  {
+    "address": "609 21st Ave E",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T13:34:00.000",
+    "latitude": "47.624472",
+    "longitude": "-122.304666",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.304666,
+        47.624472
+      ]
+    },
+    "incident_number": "F260151981"
+  },
+  {
+    "address": "2134 Western Ave",
+    "type": "Aid Response Yellow",
+    "datetime": "2026-10-23T13:36:00.000",
+    "latitude": "47.611432",
+    "longitude": "-122.34521",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.34521,
+        47.611432
+      ]
+    },
+    "incident_number": "F260151982"
+  },
+  {
+    "address": "610 7th Ave S",
+    "type": "Low Acuity Response",
+    "datetime": "2026-10-23T13:38:00.000",
+    "latitude": "47.597425",
+    "longitude": "-122.323757",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.323757,
+        47.597425
+      ]
+    },
+    "incident_number": "F260151984"
+  },
+  {
+    "address": "12360 Lake City Way Ne",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T13:41:00.000",
+    "latitude": "47.718989",
+    "longitude": "-122.295405",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.295405,
+        47.718989
+      ]
+    },
+    "incident_number": "F260151985"
+  },
+  {
+    "address": "401 NE NORTHLAKE WAY",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T13:46:00.000",
+    "latitude": "47.653815",
+    "longitude": "-122.324577",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.324577,
+        47.653815
+      ]
+    },
+    "incident_number": "F260151986"
+  },
+  {
+    "address": "255 S King St",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T13:47:00.000",
+    "latitude": "47.598287",
+    "longitude": "-122.330894",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.330894,
+        47.598287
+      ]
+    },
+    "incident_number": "F260151987"
+  },
+  {
+    "address": "1401 E Howell St",
+    "type": "Automatic Fire Alarm False",
+    "datetime": "2026-10-23T13:48:00.000",
+    "latitude": "47.61762",
+    "longitude": "-122.314264",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.314264,
+        47.61762
+      ]
+    },
+    "incident_number": "F260151988"
+  },
+  {
+    "address": "1039 6th Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T13:51:00.000",
+    "latitude": "47.593751",
+    "longitude": "-122.325968",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.325968,
+        47.593751
+      ]
+    },
+    "incident_number": "F260151992"
+  },
+  {
+    "address": "899 W Olympic Pl",
+    "type": "Illegal Burn",
+    "datetime": "2026-10-23T13:52:00.000",
+    "latitude": "47.62874",
+    "longitude": "-122.368832",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.368832,
+        47.62874
+      ]
+    },
+    "incident_number": "F260151994"
+  },
+  {
+    "address": "803 S Lane St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T13:57:00.000",
+    "latitude": "47.59667",
+    "longitude": "-122.32229",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.32229,
+        47.59667
+      ]
+    },
+    "incident_number": "F260151995"
+  },
+  {
+    "address": "13731 Linden Ave N",
+    "type": "Low Acuity Response",
+    "datetime": "2026-10-23T13:59:00.000",
+    "latitude": "47.728679",
+    "longitude": "-122.347736",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.347736,
+        47.728679
+      ]
+    },
+    "incident_number": "F260151996"
+  },
+  {
+    "address": "5425 57th Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T14:08:00.000",
+    "latitude": "47.553053",
+    "longitude": "-122.261963",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.261963,
+        47.553053
+      ]
+    },
+    "incident_number": "F260151999"
+  },
+  {
+    "address": "4220 S Othello St",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T14:20:00.000",
+    "latitude": "47.53705",
+    "longitude": "-122.280459",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.280459,
+        47.53705
+      ]
+    },
+    "incident_number": "F260152001"
+  },
+  {
+    "address": "20TH AVE SW / SW BARTON ST",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T14:23:00.000",
+    "latitude": "47.521029",
+    "longitude": "-122.359162",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.359162,
+        47.521029
+      ]
+    },
+    "incident_number": "F260152002"
+  },
+  {
+    "address": "909 4th Ave",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T14:42:00.000",
+    "latitude": "47.605432",
+    "longitude": "-122.33231",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.33231,
+        47.605432
+      ]
+    },
+    "incident_number": "F260152003"
+  },
+  {
+    "address": "4th Ave / Spring St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T14:52:00.000",
+    "latitude": "47.606801",
+    "longitude": "-122.333562",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.333562,
+        47.606801
+      ]
+    },
+    "incident_number": "F260152004"
+  },
+  {
+    "address": "23rd Ave / E Cherry St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T14:54:00.000",
+    "latitude": "47.608009",
+    "longitude": "-122.30277",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.30277,
+        47.608009
+      ]
+    },
+    "incident_number": "F260152005"
+  },
+  {
+    "address": "1717 Belmont Ave",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T15:05:00.000",
+    "latitude": "47.616576",
+    "longitude": "-122.32449",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.32449,
+        47.616576
+      ]
+    },
+    "incident_number": "F260152009"
+  },
+  {
+    "address": "3530 27th Pl W",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T15:06:00.000",
+    "latitude": "47.652472",
+    "longitude": "-122.390448",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.390448,
+        47.652472
+      ]
+    },
+    "incident_number": "F260152010"
+  },
+  {
+    "address": "2619 4th Ave N",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T15:06:00.000",
+    "latitude": "47.643235",
+    "longitude": "-122.349574",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.349574,
+        47.643235
+      ]
+    },
+    "incident_number": "F260152011"
+  },
+  {
+    "address": "7th Ave S / S Lane St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T15:07:00.000",
+    "latitude": "47.596672",
+    "longitude": "-122.32376",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.32376,
+        47.596672
+      ]
+    },
+    "incident_number": "F260152012"
+  },
+  {
+    "address": "624 S Dearborn St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T15:07:00.000",
+    "latitude": "47.595836",
+    "longitude": "-122.325721",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.325721,
+        47.595836
+      ]
+    },
+    "incident_number": "F260152013"
+  },
+  {
+    "address": "1050 Ne 50th St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T15:12:00.000",
+    "latitude": "47.664932",
+    "longitude": "-122.316859",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.316859,
+        47.664932
+      ]
+    },
+    "incident_number": "F260152015"
+  },
+  {
+    "address": "7701 14th Ave S",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T15:12:00.000",
+    "latitude": "47.534513",
+    "longitude": "-122.314855",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.314855,
+        47.534513
+      ]
+    },
+    "incident_number": "F260152016"
+  },
+  {
+    "address": "11045 8th Ave Ne",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T15:16:00.000",
+    "latitude": "47.7089",
+    "longitude": "-122.320568",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.320568,
+        47.7089
+      ]
+    },
+    "incident_number": "F260152018"
+  },
+  {
+    "address": "3817 41st Ave Ne",
+    "type": "Aid Response Yellow",
+    "datetime": "2026-10-23T15:17:00.000",
+    "latitude": "47.656655",
+    "longitude": "-122.283956",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.283956,
+        47.656655
+      ]
+    },
+    "incident_number": "F260152019"
+  },
+  {
+    "address": "624 S Dearborn St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T15:17:00.000",
+    "latitude": "47.595836",
+    "longitude": "-122.325721",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.325721,
+        47.595836
+      ]
+    },
+    "incident_number": "F260152020"
+  },
+  {
+    "address": "1423 1ST AVE",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T15:20:00.000",
+    "latitude": "47.608051",
+    "longitude": "-122.339309",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.339309,
+        47.608051
+      ]
+    },
+    "incident_number": "F260152021"
+  },
+  {
+    "address": "S Jackson St / 12th Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T15:24:00.000",
+    "latitude": "47.599187",
+    "longitude": "-122.317225",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.317225,
+        47.599187
+      ]
+    },
+    "incident_number": "F260152023"
+  },
+  {
+    "address": "2814 W Lynn St",
+    "type": "Automatic Fire Alarm Resd",
+    "datetime": "2026-10-23T15:28:00.000",
+    "latitude": "47.638841",
+    "longitude": "-122.393169",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.393169,
+        47.638841
+      ]
+    },
+    "incident_number": "F260152024"
+  },
+  {
+    "address": "4103 46th Ave S",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T15:34:00.000",
+    "latitude": "47.566419",
+    "longitude": "-122.275767",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.275767,
+        47.566419
+      ]
+    },
+    "incident_number": "F260152026"
+  },
+  {
+    "address": "1105 Ne 47th St",
+    "type": "Rescue Elevator",
+    "datetime": "2026-10-23T15:39:00.000",
+    "latitude": "47.663112",
+    "longitude": "-122.316303",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.316303,
+        47.663112
+      ]
+    },
+    "incident_number": "F260152028"
+  },
+  {
+    "address": "5244 LEARY AVE NW",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T15:43:00.000",
+    "latitude": "47.666067",
+    "longitude": "-122.381417",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.381417,
+        47.666067
+      ]
+    },
+    "incident_number": "F260152029"
+  },
+  {
+    "address": "1007 12th Ave S",
+    "type": "Engine Code Red",
+    "datetime": "2026-10-23T15:48:00.000",
+    "latitude": "47.59322",
+    "longitude": "-122.317281",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.317281,
+        47.59322
+      ]
+    },
+    "incident_number": "F260152031"
+  },
+  {
+    "address": "255 S King St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T15:48:00.000",
+    "latitude": "47.598287",
+    "longitude": "-122.330894",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.330894,
+        47.598287
+      ]
+    },
+    "incident_number": "F260152030"
+  },
+  {
+    "address": "Nw 80th St / Dibble Ave Nw",
+    "type": "Car Fire",
+    "datetime": "2026-10-23T15:54:00.000",
+    "latitude": "47.686931",
+    "longitude": "-122.367276",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.367276,
+        47.686931
+      ]
+    },
+    "incident_number": "F260152033"
+  },
+  {
+    "address": "Beacon Ave S / S Eddy St",
+    "type": "MVI - Motor Vehicle Incident",
+    "datetime": "2026-10-23T15:56:00.000",
+    "latitude": "47.545345",
+    "longitude": "-122.30033",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.30033,
+        47.545345
+      ]
+    },
+    "incident_number": "F260152034"
+  },
+  {
+    "address": "118 BELL ST",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T16:02:00.000",
+    "latitude": "47.613497",
+    "longitude": "-122.346355",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.346355,
+        47.613497
+      ]
+    },
+    "incident_number": "F260152035"
+  },
+  {
+    "address": "115 13th Ave",
+    "type": "Alarm Bell",
+    "datetime": "2026-10-23T16:03:00.000",
+    "latitude": "47.601978",
+    "longitude": "-122.314928",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.314928,
+        47.601978
+      ]
+    },
+    "incident_number": "F260152036"
+  },
+  {
+    "address": "901 S Main St",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T16:04:00.000",
+    "latitude": "47.600213",
+    "longitude": "-122.319139",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.319139,
+        47.600213
+      ]
+    },
+    "incident_number": "F260152037"
+  },
+  {
+    "address": "10507 Aurora Ave N",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T16:05:00.000",
+    "latitude": "47.705096",
+    "longitude": "-122.344695",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.344695,
+        47.705096
+      ]
+    },
+    "incident_number": "F260152038"
+  },
+  {
+    "address": "1311 S Massachusetts St",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T16:11:00.000",
+    "latitude": "47.588437",
+    "longitude": "-122.315855",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.315855,
+        47.588437
+      ]
+    },
+    "incident_number": "F260152040"
+  },
+  {
+    "address": "6000 Phinney Ave N",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T16:27:00.000",
+    "latitude": "47.672487",
+    "longitude": "-122.35438",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.35438,
+        47.672487
+      ]
+    },
+    "incident_number": "F260152045"
+  },
+  {
+    "address": "9678 54th Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T16:30:00.000",
+    "latitude": "47.515736",
+    "longitude": "-122.265406",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.265406,
+        47.515736
+      ]
+    },
+    "incident_number": "F260152049"
+  },
+  {
+    "address": "2613 34th Ave W",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T16:31:00.000",
+    "latitude": "47.643297",
+    "longitude": "-122.400964",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.400964,
+        47.643297
+      ]
+    },
+    "incident_number": "F260152048"
+  },
+  {
+    "address": "6116 47th Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T16:38:00.000",
+    "latitude": "47.54737",
+    "longitude": "-122.273713",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.273713,
+        47.54737
+      ]
+    },
+    "incident_number": "F260152051"
+  },
+  {
+    "address": "2423 Sw Holden St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T16:47:00.000",
+    "latitude": "47.533699",
+    "longitude": "-122.363477",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.363477,
+        47.533699
+      ]
+    },
+    "incident_number": "F260152055"
+  },
+  {
+    "address": "11045 8th Ave Ne",
+    "type": "Aid Response Yellow",
+    "datetime": "2026-10-23T16:48:00.000",
+    "latitude": "47.7089",
+    "longitude": "-122.320568",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.320568,
+        47.7089
+      ]
+    },
+    "incident_number": "F260152056"
+  },
+  {
+    "address": "10th Ave S / S Dearborn St",
+    "type": "2RED - 1 + 1",
+    "datetime": "2026-10-23T16:54:00.000",
+    "latitude": "47.595825",
+    "longitude": "-122.319215",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.319215,
+        47.595825
+      ]
+    },
+    "incident_number": "F260152057"
+  },
+  {
+    "address": "703 17th Ave E",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T16:56:00.000",
+    "latitude": "47.625263",
+    "longitude": "-122.309987",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.309987,
+        47.625263
+      ]
+    },
+    "incident_number": "F260152058"
+  },
+  {
+    "address": "1000 4th Ave",
+    "type": "Crisis Center",
+    "datetime": "2026-10-23T16:57:00.000",
+    "latitude": "47.606088",
+    "longitude": "-122.332909",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.332909,
+        47.606088
+      ]
+    },
+    "incident_number": "F260152060"
+  },
+  {
+    "address": "N 117th St / Interurban Trl",
+    "type": "Ladder Code Red",
+    "datetime": "2026-10-23T17:00:00.000",
+    "latitude": "47.714142",
+    "longitude": "-122.348158",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.348158,
+        47.714142
+      ]
+    },
+    "incident_number": "F260152062"
+  },
+  {
+    "address": "2500 Ne Wahkiakum Ln",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T17:01:00.000",
+    "latitude": "47.654993",
+    "longitude": "-122.30233",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.30233,
+        47.654993
+      ]
+    },
+    "incident_number": "F260152063"
+  },
+  {
+    "address": "Marion St / Boren Ave",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T17:06:00.000",
+    "latitude": "47.608624",
+    "longitude": "-122.324487",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.324487,
+        47.608624
+      ]
+    },
+    "incident_number": "F260152065"
+  },
+  {
+    "address": "Queen Anne Ave N / Mercer St",
+    "type": "Medic Response- Overdose",
+    "datetime": "2026-10-23T17:09:00.000",
+    "latitude": "47.624583",
+    "longitude": "-122.356709",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.356709,
+        47.624583
+      ]
+    },
+    "incident_number": "F260152066"
+  },
+  {
+    "address": "425 Vine St",
+    "type": "Engine Code Yellow",
+    "datetime": "2026-10-23T17:15:00.000",
+    "latitude": "47.617413",
+    "longitude": "-122.346886",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.346886,
+        47.617413
+      ]
+    },
+    "incident_number": "F260152072"
+  },
+  {
+    "address": "NB I5 AT HOLGATE",
+    "type": "Aid Response Freeway",
+    "datetime": "2026-10-23T17:16:00.000",
+    "latitude": "47.57679",
+    "longitude": "-122.319476",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.319476,
+        47.57679
+      ]
+    },
+    "incident_number": "F260152077"
+  },
+  {
+    "address": "7016 15th Ave Nw",
+    "type": "MVI Medic",
+    "datetime": "2026-10-23T17:17:00.000",
+    "latitude": "47.679622",
+    "longitude": "-122.37677",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.37677,
+        47.679622
+      ]
+    },
+    "incident_number": "F260152073"
+  },
+  {
+    "address": "1020 S Main St",
+    "type": "Scenes Of Violence 7",
+    "datetime": "2026-10-23T17:17:00.000",
+    "latitude": "47.600078",
+    "longitude": "-122.318873",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.318873,
+        47.600078
+      ]
+    },
+    "incident_number": "F260152074"
+  },
+  {
+    "address": "100 Melrose Ave E",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T17:25:00.000",
+    "latitude": "47.618497",
+    "longitude": "-122.327854",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.327854,
+        47.618497
+      ]
+    },
+    "incident_number": "F260152079"
+  },
+  {
+    "address": "12th Ave S / S King St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T17:28:00.000",
+    "latitude": "47.598338",
+    "longitude": "-122.317228",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.317228,
+        47.598338
+      ]
+    },
+    "incident_number": "F260152081"
+  },
+  {
+    "address": "Sturgus Ave S / S Charles St",
+    "type": "Rubbish Fire",
+    "datetime": "2026-10-23T17:29:00.000",
+    "latitude": "47.594375",
+    "longitude": "-122.315134",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.315134,
+        47.594375
+      ]
+    },
+    "incident_number": "F260152084"
+  },
+  {
+    "address": "1711 23rd Ave S",
+    "type": "Automatic Medical Alarm",
+    "datetime": "2026-10-23T17:33:00.000",
+    "latitude": "47.58821",
+    "longitude": "-122.302596",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.302596,
+        47.58821
+      ]
+    },
+    "incident_number": "F260152085"
+  },
+  {
+    "address": "Thomas St / Terry Ave N",
+    "type": "Medic Response- 6 per Rule",
+    "datetime": "2026-10-23T17:34:00.000",
+    "latitude": "47.620869",
+    "longitude": "-122.337161",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.337161,
+        47.620869
+      ]
+    },
+    "incident_number": "F260152086"
+  },
+  {
+    "address": "2120 NE 47TH ST",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T17:35:00.000",
+    "latitude": "47.663073",
+    "longitude": "-122.304697",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.304697,
+        47.663073
+      ]
+    },
+    "incident_number": "F260152090"
+  },
+  {
+    "address": "21st Ave S / S Massachusetts St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T17:36:00.000",
+    "latitude": "47.588407",
+    "longitude": "-122.305154",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.305154,
+        47.588407
+      ]
+    },
+    "incident_number": "F260152091"
+  },
+  {
+    "address": "Occidental Ave S / S Main St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T17:36:00.000",
+    "latitude": "47.600043",
+    "longitude": "-122.332879",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.332879,
+        47.600043
+      ]
+    },
+    "incident_number": "F260152092"
+  },
+  {
+    "address": "2745 California Ave Sw",
+    "type": "Rescue Elevator",
+    "datetime": "2026-10-23T17:39:00.000",
+    "latitude": "47.578063",
+    "longitude": "-122.38667",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.38667,
+        47.578063
+      ]
+    },
+    "incident_number": "F260152094"
+  },
+  {
+    "address": "2727 Ne 125th St",
+    "type": "Ladder Code Red",
+    "datetime": "2026-10-23T17:43:00.000",
+    "latitude": "47.719299",
+    "longitude": "-122.298735",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.298735,
+        47.719299
+      ]
+    },
+    "incident_number": "F260152096"
+  },
+  {
+    "address": "3RD AVE / BELL ST",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T17:44:00.000",
+    "latitude": "47.614705",
+    "longitude": "-122.344794",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.344794,
+        47.614705
+      ]
+    },
+    "incident_number": "F260152098"
+  },
+  {
+    "address": "Ne Campus Pkwy / 15th Ave Ne",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T17:46:00.000",
+    "latitude": "47.655975",
+    "longitude": "-122.312136",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.312136,
+        47.655975
+      ]
+    },
+    "incident_number": "F260152099"
+  },
+  {
+    "address": "4219 S Othello St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T17:52:00.000",
+    "latitude": "47.53705",
+    "longitude": "-122.280473",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.280473,
+        47.53705
+      ]
+    },
+    "incident_number": "F260152103"
+  },
+  {
+    "address": "SYLVAN WAY SW / SW HOLLY ST",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T17:59:00.000",
+    "latitude": "47.542832",
+    "longitude": "-122.370607",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.370607,
+        47.542832
+      ]
+    },
+    "incident_number": "F260152106"
+  },
+  {
+    "address": "207 Pontius Ave N",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T17:59:00.000",
+    "latitude": "47.619736",
+    "longitude": "-122.331697",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.331697,
+        47.619736
+      ]
+    },
+    "incident_number": "F260152108"
+  },
+  {
+    "address": "334 1st Ave N",
+    "type": "EVENT - Special Event",
+    "datetime": "2026-10-23T17:59:00.000",
+    "latitude": "47.621329",
+    "longitude": "-122.355431",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.355431,
+        47.621329
+      ]
+    },
+    "incident_number": "F260152107"
+  },
+  {
+    "address": "34th Ave W / W Smith St",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T18:02:00.000",
+    "latitude": "47.640526",
+    "longitude": "-122.400985",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.400985,
+        47.640526
+      ]
+    },
+    "incident_number": "F260152110"
+  },
+  {
+    "address": "57th Ave S / Waters Ave S",
+    "type": "Illegal Burn",
+    "datetime": "2026-10-23T18:03:00.000",
+    "latitude": "47.519298",
+    "longitude": "-122.261599",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.261599,
+        47.519298
+      ]
+    },
+    "incident_number": "F260152111"
+  },
+  {
+    "address": "611 12th Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T18:06:00.000",
+    "latitude": "47.597409",
+    "longitude": "-122.317227",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.317227,
+        47.597409
+      ]
+    },
+    "incident_number": "F260152112"
+  },
+  {
+    "address": "NB I5 CD AT DEARBORN",
+    "type": "MVI Freeway",
+    "datetime": "2026-10-23T18:11:00.000",
+    "latitude": "47.595374",
+    "longitude": "-122.319764",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.319764,
+        47.595374
+      ]
+    },
+    "incident_number": "F260152114"
+  },
+  {
+    "address": "223 Yesler Way",
+    "type": "Medic Response- Overdose",
+    "datetime": "2026-10-23T18:14:00.000",
+    "latitude": "47.601718",
+    "longitude": "-122.331581",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.331581,
+        47.601718
+      ]
+    },
+    "incident_number": "F260152115"
+  },
+  {
+    "address": "1400 S Lane St",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T18:16:00.000",
+    "latitude": "47.596654",
+    "longitude": "-122.314056",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.314056,
+        47.596654
+      ]
+    },
+    "incident_number": "F260152117"
+  },
+  {
+    "address": "301 Pine St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T18:18:00.000",
+    "latitude": "47.610748",
+    "longitude": "-122.338691",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.338691,
+        47.610748
+      ]
+    },
+    "incident_number": "F260152119"
+  },
+  {
+    "address": "7001 Seaview Ave Nw",
+    "type": "Investigate Out Of Service",
+    "datetime": "2026-10-23T18:22:00.000",
+    "latitude": "47.679499",
+    "longitude": "-122.405085",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.405085,
+        47.679499
+      ]
+    },
+    "incident_number": "F260152121"
+  },
+  {
+    "address": "5631 45th Ave Sw",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T18:22:00.000",
+    "latitude": "47.551961",
+    "longitude": "-122.389825",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.389825,
+        47.551961
+      ]
+    },
+    "incident_number": "F260152122"
+  },
+  {
+    "address": "7301 Delridge Way Sw",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T18:23:00.000",
+    "latitude": "47.537106",
+    "longitude": "-122.361215",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.361215,
+        47.537106
+      ]
+    },
+    "incident_number": "F260152123"
+  },
+  {
+    "address": "S Jackson St / 12th Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T18:24:00.000",
+    "latitude": "47.599187",
+    "longitude": "-122.317225",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.317225,
+        47.599187
+      ]
+    },
+    "incident_number": "F260152124"
+  },
+  {
+    "address": "1010 12th Ave S",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T18:26:00.000",
+    "latitude": "47.593203",
+    "longitude": "-122.317281",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.317281,
+        47.593203
+      ]
+    },
+    "incident_number": "F260152125"
+  },
+  {
+    "address": "3rd Ave Ne / Ne 112th St",
+    "type": "Illegal Burn",
+    "datetime": "2026-10-23T18:28:00.000",
+    "latitude": "47.709602",
+    "longitude": "-122.325981",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.325981,
+        47.709602
+      ]
+    },
+    "incident_number": "F260152127"
+  },
+  {
+    "address": "8735 Greenwood Ave N",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T18:29:00.000",
+    "latitude": "47.692623",
+    "longitude": "-122.355323",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.355323,
+        47.692623
+      ]
+    },
+    "incident_number": "F260152129"
+  },
+  {
+    "address": "509 Bellevue Ave E",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T18:30:00.000",
+    "latitude": "47.6234",
+    "longitude": "-122.326593",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.326593,
+        47.6234
+      ]
+    },
+    "incident_number": "F260152130"
+  },
+  {
+    "address": "207 Pontius Ave N",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T18:42:00.000",
+    "latitude": "47.619736",
+    "longitude": "-122.331697",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.331697,
+        47.619736
+      ]
+    },
+    "incident_number": "F260152132"
+  },
+  {
+    "address": "5020 California Ave Sw",
+    "type": "Aid Response Yellow",
+    "datetime": "2026-10-23T18:44:00.000",
+    "latitude": "47.557285",
+    "longitude": "-122.386889",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.386889,
+        47.557285
+      ]
+    },
+    "incident_number": "F260152133"
+  },
+  {
+    "address": "415 Boren Ave",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T18:46:00.000",
+    "latitude": "47.605156",
+    "longitude": "-122.32132",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.32132,
+        47.605156
+      ]
+    },
+    "incident_number": "F260152134"
+  },
+  {
+    "address": "9240 2nd Ave Sw",
+    "type": "Aid Response Yellow",
+    "datetime": "2026-10-23T18:50:00.000",
+    "latitude": "47.520451",
+    "longitude": "-122.336003",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.336003,
+        47.520451
+      ]
+    },
+    "incident_number": "F260152136"
+  },
+  {
+    "address": "5919 S Roxbury St",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T18:51:00.000",
+    "latitude": "47.516789",
+    "longitude": "-122.259169",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.259169,
+        47.516789
+      ]
+    },
+    "incident_number": "F260152137"
+  },
+  {
+    "address": "E Madison St / E Pine St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T19:00:00.000",
+    "latitude": "47.615167",
+    "longitude": "-122.311166",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.311166,
+        47.615167
+      ]
+    },
+    "incident_number": "F260152140"
+  },
+  {
+    "address": "10750 30th Ave Ne",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T19:00:00.000",
+    "latitude": "47.706969",
+    "longitude": "-122.296231",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.296231,
+        47.706969
+      ]
+    },
+    "incident_number": "F260152139"
+  },
+  {
+    "address": "9th Ave N / Roy St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T19:02:00.000",
+    "latitude": "47.625393",
+    "longitude": "-122.339735",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.339735,
+        47.625393
+      ]
+    },
+    "incident_number": "F260152141"
+  },
+  {
+    "address": "1911 22nd Ave S",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T19:03:00.000",
+    "latitude": "47.586234",
+    "longitude": "-122.304237",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.304237,
+        47.586234
+      ]
+    },
+    "incident_number": "F260152142"
+  },
+  {
+    "address": "4104 39th Ave Sw",
+    "type": "Fire in Building",
+    "datetime": "2026-10-23T19:08:00.000",
+    "latitude": "47.566466",
+    "longitude": "-122.381449",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.381449,
+        47.566466
+      ]
+    },
+    "incident_number": "F260152143"
+  },
+  {
+    "address": "171 12th Ave",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T19:14:00.000",
+    "latitude": "47.603031",
+    "longitude": "-122.316782",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.316782,
+        47.603031
+      ]
+    },
+    "incident_number": "F260152144"
+  },
+  {
+    "address": "Western Ave / Lenora St",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T19:22:00.000",
+    "latitude": "47.611173",
+    "longitude": "-122.344772",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.344772,
+        47.611173
+      ]
+    },
+    "incident_number": "F260152145"
+  },
+  {
+    "address": "2112 E Denny Way",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T19:24:00.000",
+    "latitude": "47.618448",
+    "longitude": "-122.304694",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.304694,
+        47.618448
+      ]
+    },
+    "incident_number": "F260152146"
+  },
+  {
+    "address": "3700 Sw Cambridge St",
+    "type": "Automatic Fire Alarm Resd",
+    "datetime": "2026-10-23T19:26:00.000",
+    "latitude": "47.519289",
+    "longitude": "-122.379491",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.379491,
+        47.519289
+      ]
+    },
+    "incident_number": "F260152147"
+  },
+  {
+    "address": "13751 32nd Ave Ne",
+    "type": "Investigate Out Of Service",
+    "datetime": "2026-10-23T19:26:00.000",
+    "latitude": "47.728535",
+    "longitude": "-122.293652",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.293652,
+        47.728535
+      ]
+    },
+    "incident_number": "F260152148"
+  },
+  {
+    "address": "9201 Rainier Ave S",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T19:26:00.000",
+    "latitude": "47.52101",
+    "longitude": "-122.269997",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.269997,
+        47.52101
+      ]
+    },
+    "incident_number": "F260152149"
+  },
+  {
+    "address": "115 W Galer St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T19:30:00.000",
+    "latitude": "47.632319",
+    "longitude": "-122.358398",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.358398,
+        47.632319
+      ]
+    },
+    "incident_number": "F260152150"
+  },
+  {
+    "address": "14th Ave S / S Walker St",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T19:32:00.000",
+    "latitude": "47.583699",
+    "longitude": "-122.314692",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.314692,
+        47.583699
+      ]
+    },
+    "incident_number": "F260152151"
+  },
+  {
+    "address": "2900 3rd Ave W",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T19:38:00.000",
+    "latitude": "47.645803",
+    "longitude": "-122.360896",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.360896,
+        47.645803
+      ]
+    },
+    "incident_number": "F260152152"
+  },
+  {
+    "address": "6798 48th Ave Sw",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T19:39:00.000",
+    "latitude": "47.541987",
+    "longitude": "-122.3952",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.3952,
+        47.541987
+      ]
+    },
+    "incident_number": "F260152153"
+  },
+  {
+    "address": "1118 5TH AVE",
+    "type": "Aid Response Yellow",
+    "datetime": "2026-10-23T19:43:00.000",
+    "latitude": "47.60739",
+    "longitude": "-122.332564",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.332564,
+        47.60739
+      ]
+    },
+    "incident_number": "F260152154"
+  },
+  {
+    "address": "329 23rd Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T19:48:00.000",
+    "latitude": "47.600013",
+    "longitude": "-122.302235",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.302235,
+        47.600013
+      ]
+    },
+    "incident_number": "F260152156"
+  },
+  {
+    "address": "425 5TH AVE S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T19:50:00.000",
+    "latitude": "47.598981",
+    "longitude": "-122.327668",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.327668,
+        47.598981
+      ]
+    },
+    "incident_number": "F260152157"
+  },
+  {
+    "address": "Occidental Ave S / S Washington St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T19:55:00.000",
+    "latitude": "47.600882",
+    "longitude": "-122.332877",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.332877,
+        47.600882
+      ]
+    },
+    "incident_number": "F260152158"
+  },
+  {
+    "address": "Boylston Ave / E Olive St",
+    "type": "Engine Code Red",
+    "datetime": "2026-10-23T19:59:00.000",
+    "latitude": "47.616364",
+    "longitude": "-122.323438",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.323438,
+        47.616364
+      ]
+    },
+    "incident_number": "F260152159"
+  },
+  {
+    "address": "1701 18th Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T19:59:00.000",
+    "latitude": "47.588414",
+    "longitude": "-122.309467",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.309467,
+        47.588414
+      ]
+    },
+    "incident_number": "F260152160"
+  },
+  {
+    "address": "5518 28th Ave Nw",
+    "type": "Activated CO Detector",
+    "datetime": "2026-10-23T20:02:00.000",
+    "latitude": "47.668794",
+    "longitude": "-122.392861",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.392861,
+        47.668794
+      ]
+    },
+    "incident_number": "F260152163"
+  },
+  {
+    "address": "4416 S Brandon St",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T20:05:00.000",
+    "latitude": "47.553402",
+    "longitude": "-122.279146",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.279146,
+        47.553402
+      ]
+    },
+    "incident_number": "F260152167"
+  },
+  {
+    "address": "1430 2ND AVE",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T20:07:00.000",
+    "latitude": "47.608586",
+    "longitude": "-122.338264",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.338264,
+        47.608586
+      ]
+    },
+    "incident_number": "F260152173"
+  },
+  {
+    "address": "4421 S Brandon St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T20:09:00.000",
+    "latitude": "47.553402",
+    "longitude": "-122.278986",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.278986,
+        47.553402
+      ]
+    },
+    "incident_number": "F260152176"
+  },
+  {
+    "address": "10014 Interlake Ave N",
+    "type": "Medic Response- Overdose",
+    "datetime": "2026-10-23T20:12:00.000",
+    "latitude": "47.701499",
+    "longitude": "-122.340601",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.340601,
+        47.701499
+      ]
+    },
+    "incident_number": "F260152179"
+  },
+  {
+    "address": "450 Ne 100th St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T20:14:00.000",
+    "latitude": "47.701329",
+    "longitude": "-122.323684",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.323684,
+        47.701329
+      ]
+    },
+    "incident_number": "F260152182"
+  },
+  {
+    "address": "Broadway E / E John St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T20:22:00.000",
+    "latitude": "47.619908",
+    "longitude": "-122.320873",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.320873,
+        47.619908
+      ]
+    },
+    "incident_number": "F260152184"
+  },
+  {
+    "address": "808 Howell St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T20:25:00.000",
+    "latitude": "47.614127",
+    "longitude": "-122.334009",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.334009,
+        47.614127
+      ]
+    },
+    "incident_number": "F260152185"
+  },
+  {
+    "address": "10th Ave / E Pine St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T20:32:00.000",
+    "latitude": "47.615245",
+    "longitude": "-122.319465",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.319465,
+        47.615245
+      ]
+    },
+    "incident_number": "F260152186"
+  },
+  {
+    "address": "2101 E Yesler Way",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T20:32:00.000",
+    "latitude": "47.601672",
+    "longitude": "-122.305031",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.305031,
+        47.601672
+      ]
+    },
+    "incident_number": "F260152187"
+  },
+  {
+    "address": "3821 14th Ave W",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T20:33:00.000",
+    "latitude": "47.654235",
+    "longitude": "-122.37491",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.37491,
+        47.654235
+      ]
+    },
+    "incident_number": "F260152190"
+  },
+  {
+    "address": "810 E DENNY WAY",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T20:33:00.000",
+    "latitude": "47.618734",
+    "longitude": "-122.322051",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.322051,
+        47.618734
+      ]
+    },
+    "incident_number": "F260152189"
+  },
+  {
+    "address": "14040 15th Ave Ne",
+    "type": "Rescue Elevator",
+    "datetime": "2026-10-23T20:35:00.000",
+    "latitude": "47.730587",
+    "longitude": "-122.312704",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.312704,
+        47.730587
+      ]
+    },
+    "incident_number": "F260152191"
+  },
+  {
+    "address": "S Bayview St / Rainier Ave S",
+    "type": "Illegal Burn",
+    "datetime": "2026-10-23T20:36:00.000",
+    "latitude": "47.580994",
+    "longitude": "-122.300167",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.300167,
+        47.580994
+      ]
+    },
+    "incident_number": "F260152192"
+  },
+  {
+    "address": "3034 NE 140TH ST",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T20:40:00.000",
+    "latitude": "47.730147",
+    "longitude": "-122.29604",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.29604,
+        47.730147
+      ]
+    },
+    "incident_number": "F260152193"
+  },
+  {
+    "address": "Broadway / Madison St",
+    "type": "Medic Response- 6 per Rule",
+    "datetime": "2026-10-23T20:41:00.000",
+    "latitude": "47.611169",
+    "longitude": "-122.32076",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.32076,
+        47.611169
+      ]
+    },
+    "incident_number": "F260152194"
+  },
+  {
+    "address": "4611 35th Ave Sw",
+    "type": "Aid Response Yellow",
+    "datetime": "2026-10-23T20:45:00.000",
+    "latitude": "47.561926",
+    "longitude": "-122.376204",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.376204,
+        47.561926
+      ]
+    },
+    "incident_number": "F260152198"
+  },
+  {
+    "address": "N 39th St / Greenwood Ave N",
+    "type": "MVI - Motor Vehicle Incident",
+    "datetime": "2026-10-23T20:48:00.000",
+    "latitude": "47.654153",
+    "longitude": "-122.355487",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.355487,
+        47.654153
+      ]
+    },
+    "incident_number": "F260152199"
+  },
+  {
+    "address": "800 E Denny Way",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T20:53:00.000",
+    "latitude": "47.618733",
+    "longitude": "-122.322187",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.322187,
+        47.618733
+      ]
+    },
+    "incident_number": "F260152201"
+  },
+  {
+    "address": "1425 10th Ave",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T20:53:00.000",
+    "latitude": "47.61322",
+    "longitude": "-122.319438",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.319438,
+        47.61322
+      ]
+    },
+    "incident_number": "F260152202"
+  },
+  {
+    "address": "14343 15th Ave Ne",
+    "type": "3RED - 1 +1 + 1",
+    "datetime": "2026-10-23T20:54:00.000",
+    "latitude": "47.732803",
+    "longitude": "-122.312733",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.312733,
+        47.732803
+      ]
+    },
+    "incident_number": "F260152203"
+  },
+  {
+    "address": "S King St / Rainier Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T21:01:00.000",
+    "latitude": "47.598331",
+    "longitude": "-122.313407",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.313407,
+        47.598331
+      ]
+    },
+    "incident_number": "F260152206"
+  },
+  {
+    "address": "1212 Cherry St",
+    "type": "Automatic Fire Alarm False",
+    "datetime": "2026-10-23T21:06:00.000",
+    "latitude": "47.607726",
+    "longitude": "-122.321919",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.321919,
+        47.607726
+      ]
+    },
+    "incident_number": "F260152207"
+  },
+  {
+    "address": "1511 Dexter Ave N",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T21:21:00.000",
+    "latitude": "47.632618",
+    "longitude": "-122.342281",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.342281,
+        47.632618
+      ]
+    },
+    "incident_number": "F260152212"
+  },
+  {
+    "address": "5901 Roosevelt Way Ne",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T21:21:00.000",
+    "latitude": "47.671478",
+    "longitude": "-122.317364",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.317364,
+        47.671478
+      ]
+    },
+    "incident_number": "F260152213"
+  },
+  {
+    "address": "7101 38th Ave S",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T21:25:00.000",
+    "latitude": "47.538872",
+    "longitude": "-122.284744",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.284744,
+        47.538872
+      ]
+    },
+    "incident_number": "F260152215"
+  },
+  {
+    "address": "4801 Fauntleroy Way Sw",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T21:30:00.000",
+    "latitude": "47.559244",
+    "longitude": "-122.381457",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.381457,
+        47.559244
+      ]
+    },
+    "incident_number": "F260152216"
+  },
+  {
+    "address": "1431 Minor Ave",
+    "type": "Aid Response Yellow",
+    "datetime": "2026-10-23T21:37:00.000",
+    "latitude": "47.613247",
+    "longitude": "-122.327187",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.327187,
+        47.613247
+      ]
+    },
+    "incident_number": "F260152217"
+  },
+  {
+    "address": "9307 30th Ave Sw",
+    "type": "Aid Response Yellow",
+    "datetime": "2026-10-23T21:50:00.000",
+    "latitude": "47.51915",
+    "longitude": "-122.371365",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.371365,
+        47.51915
+      ]
+    },
+    "incident_number": "F260152218"
+  },
+  {
+    "address": "915 Nw 45th St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T21:53:00.000",
+    "latitude": "47.661467",
+    "longitude": "-122.368768",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.368768,
+        47.661467
+      ]
+    },
+    "incident_number": "F260152220"
+  },
+  {
+    "address": "533 3rd Ave W",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T21:54:00.000",
+    "latitude": "47.623717",
+    "longitude": "-122.360635",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.360635,
+        47.623717
+      ]
+    },
+    "incident_number": "F260152221"
+  },
+  {
+    "address": "21st Ave Ne / Ne 50th St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T22:08:00.000",
+    "latitude": "47.664913",
+    "longitude": "-122.305562",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.305562,
+        47.664913
+      ]
+    },
+    "incident_number": "F260152225"
+  },
+  {
+    "address": "531 Broadway E",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T22:13:00.000",
+    "latitude": "47.623478",
+    "longitude": "-122.32093",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.32093,
+        47.623478
+      ]
+    },
+    "incident_number": "F260152227"
+  },
+  {
+    "address": "7th Ave / James St",
+    "type": "Rubbish Fire",
+    "datetime": "2026-10-23T22:18:00.000",
+    "latitude": "47.604625",
+    "longitude": "-122.32697",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.32697,
+        47.604625
+      ]
+    },
+    "incident_number": "F260152228"
+  },
+  {
+    "address": "7511 Martin Luther King Jr Way S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T22:22:00.000",
+    "latitude": "47.535091",
+    "longitude": "-122.280844",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.280844,
+        47.535091
+      ]
+    },
+    "incident_number": "F260152229"
+  },
+  {
+    "address": "2401 S Jackson St",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T22:22:00.000",
+    "latitude": "47.599288",
+    "longitude": "-122.301125",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.301125,
+        47.599288
+      ]
+    },
+    "incident_number": "F260152230"
+  },
+  {
+    "address": "2315 4th Ave",
+    "type": "Rescue Elevator",
+    "datetime": "2026-10-23T22:23:00.000",
+    "latitude": "47.615478",
+    "longitude": "-122.344118",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.344118,
+        47.615478
+      ]
+    },
+    "incident_number": "F260152231"
+  },
+  {
+    "address": "1007 12th Ave S",
+    "type": "Illegal Burn",
+    "datetime": "2026-10-23T22:32:00.000",
+    "latitude": "47.59322",
+    "longitude": "-122.317281",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.317281,
+        47.59322
+      ]
+    },
+    "incident_number": "F260152233"
+  },
+  {
+    "address": "533 3rd Ave W",
+    "type": "Alarm Bell",
+    "datetime": "2026-10-23T22:48:00.000",
+    "latitude": "47.623717",
+    "longitude": "-122.360635",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.360635,
+        47.623717
+      ]
+    },
+    "incident_number": "F260152234"
+  },
+  {
+    "address": "4330 Little Canoe Channel Ne",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T22:50:00.000",
+    "latitude": "47.659672",
+    "longitude": "-122.304982",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.304982,
+        47.659672
+      ]
+    },
+    "incident_number": "F260152237"
+  },
+  {
+    "address": "3rd Ave / Virginia St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T22:50:00.000",
+    "latitude": "47.612398",
+    "longitude": "-122.340892",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.340892,
+        47.612398
+      ]
+    },
+    "incident_number": "F260152236"
+  },
+  {
+    "address": "6211 9th Ave Ne",
+    "type": "Investigate Out Of Service",
+    "datetime": "2026-10-23T22:52:00.000",
+    "latitude": "47.673425",
+    "longitude": "-122.318707",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.318707,
+        47.673425
+      ]
+    },
+    "incident_number": "F260152238"
+  },
+  {
+    "address": "47th Ave S / S Brandon St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T23:07:00.000",
+    "latitude": "47.553378",
+    "longitude": "-122.274133",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.274133,
+        47.553378
+      ]
+    },
+    "incident_number": "F260152241"
+  },
+  {
+    "address": "1001 E Pike St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T23:10:00.000",
+    "latitude": "47.614085",
+    "longitude": "-122.319434",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.319434,
+        47.614085
+      ]
+    },
+    "incident_number": "F260152242"
+  },
+  {
+    "address": "14005 Aurora Ave N",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T23:14:00.000",
+    "latitude": "47.730514",
+    "longitude": "-122.345057",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.345057,
+        47.730514
+      ]
+    },
+    "incident_number": "F260152244"
+  },
+  {
+    "address": "1170 Harrison St",
+    "type": "Auto Fire Alarm",
+    "datetime": "2026-10-23T23:18:00.000",
+    "latitude": "47.621989",
+    "longitude": "-122.33374",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.33374,
+        47.621989
+      ]
+    },
+    "incident_number": "F260152246"
+  },
+  {
+    "address": "3317 5th Ave W",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T23:18:00.000",
+    "latitude": "47.64932",
+    "longitude": "-122.363481",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.363481,
+        47.64932
+      ]
+    },
+    "incident_number": "F260152247"
+  },
+  {
+    "address": "711 Cherry St",
+    "type": "Ladder Code Yellow",
+    "datetime": "2026-10-23T23:18:00.000",
+    "latitude": "47.605392",
+    "longitude": "-122.327499",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.327499,
+        47.605392
+      ]
+    },
+    "incident_number": "F260152245"
+  },
+  {
+    "address": "4831 35th Ave Sw",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T23:21:00.000",
+    "latitude": "47.558988",
+    "longitude": "-122.376234",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.376234,
+        47.558988
+      ]
+    },
+    "incident_number": "F260152248"
+  },
+  {
+    "address": "1916 Sw Holden St",
+    "type": "Poison Control",
+    "datetime": "2026-10-23T23:22:00.000",
+    "latitude": "47.533687",
+    "longitude": "-122.358336",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.358336,
+        47.533687
+      ]
+    },
+    "incident_number": "F260152250"
+  },
+  {
+    "address": "224 S Washington St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T23:25:00.000",
+    "latitude": "47.600878",
+    "longitude": "-122.331064",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.331064,
+        47.600878
+      ]
+    },
+    "incident_number": "F260152251"
+  },
+  {
+    "address": "4800 S Henderson St",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T23:42:00.000",
+    "latitude": "47.52331",
+    "longitude": "-122.272834",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.272834,
+        47.52331
+      ]
+    },
+    "incident_number": "F260152254"
+  },
+  {
+    "address": "1st Ave S / S Mead St",
+    "type": "Rubbish Fire",
+    "datetime": "2026-10-23T23:44:00.000",
+    "latitude": "47.551105",
+    "longitude": "-122.334217",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.334217,
+        47.551105
+      ]
+    },
+    "incident_number": "F260152255"
+  },
+  {
+    "address": "220 16th Ave E",
+    "type": "Medic Response",
+    "datetime": "2026-10-23T23:46:00.000",
+    "latitude": "47.619836",
+    "longitude": "-122.311394",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.311394,
+        47.619836
+      ]
+    },
+    "incident_number": "F260152256"
+  },
+  {
+    "address": "5968 Rainier Ave S",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T23:52:00.000",
+    "latitude": "47.548785",
+    "longitude": "-122.276963",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.276963,
+        47.548785
+      ]
+    },
+    "incident_number": "F260152258"
+  },
+  {
+    "address": "1430 2nd Ave",
+    "type": "Aid Response",
+    "datetime": "2026-10-23T23:57:00.000",
+    "latitude": "47.608586",
+    "longitude": "-122.338264",
+    "report_location": {
+      "type": "Point",
+      "coordinates": [
+        -122.338264,
+        47.608586
+      ]
+    },
+    "incident_number": "F260152261"
+  }
+]
