@@ -1,8 +1,9 @@
 """
 verify_calculations.py
 ======================
-Modul verifikasi perhitungan Proses Poisson Homogen.
-Mata Kuliah: Pengantar Proses Stokastik (S1 Matematika FMIPA UNS)
+Modul verifikasi analitis rumus matematika proses Poisson homogen:
+probabilitas kejadian, waktu tunggu Gamma/Erlang, uji indeks dispersi,
+serta verifikasi sifat penipisan (thinning) dan superposisi.
 
 Rujukan Teori:
 - Howard M. Taylor & Samuel Karlin (1998), Bab V
@@ -167,7 +168,7 @@ def dispersion_index_test(data_counts: list) -> dict:
 
 def test_uniform_property(arrival_times: list, t_end: float) -> dict:
     """
-    Uji Sifat Uniform Waktu Kedatangan (Pengayaan K1):
+    Uji Sifat Uniform Waktu Kedatangan Bersyarat:
     Diberikan N(t) = n, waktu kedatangan W_1, ..., W_n berdistribusi sama
     dengan statistik tatanan dari n variabel acak Uniform(0, t_end).
     Uji Kolmogorov-Smirnov satu sampel terhadap Uniform(0, t_end).
@@ -241,7 +242,7 @@ def verify_empirical_dataset(csv_path: str) -> dict:
 
 if __name__ == "__main__":
     print("=" * 65)
-    print("  PENGUJIAN MODUL VERIFIKASI PROSES POISSON HOMOGEN (KELOMPOK 1)")
+    print("  VERIFIKASI RUMUS MATEMATIKA PROSES POISSON HOMOGEN")
     print("=" * 65)
 
     # 1. Uji Probabilitas Poisson

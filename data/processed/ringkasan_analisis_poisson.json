@@ -5,9 +5,9 @@
   "variansi_24h": 38.51449275362319,
   "indeks_dispersi_24h": 2.94378288562725,
   "p_medis": 0.6656050955414012,
-  "p_non_medis": 0.33439490445859876,
+  "p_non_medis": 0.3343949044585987,
   "lambda_medis": 8.708333333333334,
-  "lambda_non_medis": 4.375000000000001,
+  "lambda_non_medis": 4.375,
   "hourly_counts": {
     "0": 17,
     "1": 4,

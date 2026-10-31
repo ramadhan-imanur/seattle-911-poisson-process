@@ -2,18 +2,18 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Mathematics: FMIPA UNS](https://img.shields.io/badge/Mathematics-FMIPA%20UNS-informational.svg)](https://mipa.uns.ac.id/)
-[![Course: Stochastic Processes](https://img.shields.io/badge/Course-Stochastic%20Processes-purple.svg)](https://uns.ac.id/)
+[![Domain: Stochastic Modeling](https://img.shields.io/badge/Domain-Stochastic%20Modeling-purple.svg)]()
+[![Data: Seattle Open Data](https://img.shields.io/badge/Data-Seattle%20Open%20Data-informational.svg)](https://data.seattle.gov/)
 
-Repositori komputasi dan analisis data empiris untuk pemodelan Proses Poisson Homogen $\{N(t), t \ge 0\}$ pada data panggilan darurat Seattle Fire Department (SFD), Washington, Amerika Serikat. 
+Repositori komputasi dan analisis data empiris untuk pemodelan Proses Poisson Homogen $\{N(t), t \ge 0\}$ pada aliran panggilan darurat Seattle Fire Department (SFD), Washington, Amerika Serikat. 
 
-Proyek ini disusun untuk studi kasus mata kuliah Pengantar Proses Stokastik, Program Studi S1 Matematika, Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA), Universitas Sebelas Maret (UNS).
+Proyek ini mengimplementasikan pemodelan stokastik empiris dan pipeline pengujian hipotesis untuk menganalisis dinamika antrean layanan darurat perkotaan menggunakan data publik riil.
 
 ---
 
 ## 1. Ringkasan eksekutif
 
-Model Proses Poisson Homogen dengan laju konstan $\lambda > 0$ diterapkan untuk menganalisis waktu kedatangan panggilan darurat di Seattle selama 24 jam pada 23 Oktober 2026. Data sekunder diunduh dari City of Seattle Open Data Portal (API Socrata: `kzjm-xkqj`), mencakup $N(24) = 314$ panggilan.
+Analisis ini memodelkan kedatangan panggilan darurat di Seattle selama 24 jam (23 Oktober 2026) menggunakan Proses Poisson Homogen dengan laju konstan $\lambda > 0$. Data bersumber dari City of Seattle Open Data Portal (API Socrata: `kzjm-xkqj`) dengan volume $N(24) = 314$ panggilan riil.
 
 ### Parameter dan hasil komputasi
 
@@ -139,10 +139,6 @@ jupyter notebook notebooks/01_eksplorasi_dan_simulasi.ipynb
 
 ---
 
-## 7. Penulis dan informasi akademik
+## 7. Penulis
 
-* **Penulis**: [Ramadhan Imanur Rochim](https://github.com/ramadhan-imanur) (NIM M0124015)
-* **Program Studi**: S1 Matematika, Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA)
-* **Institusi**: Universitas Sebelas Maret (UNS), Surakarta, Indonesia
-* **Mata Kuliah**: Pengantar Proses Stokastik
-* **Dosen Pengampu**: Ade Susanti, S.Si., M.Si.
+* [Ramadhan Imanur Rochim](https://github.com/ramadhan-imanur)
