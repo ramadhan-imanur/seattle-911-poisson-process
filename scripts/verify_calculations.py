@@ -1,10 +1,8 @@
 """
 verify_calculations.py
 ======================
-Modul verifikasi komputasi kuantitatif khusus Kelompok 1:
-TOPIK: PROSES POISSON HOMOGEN
+Modul verifikasi perhitungan Proses Poisson Homogen.
 Mata Kuliah: Pengantar Proses Stokastik (S1 Matematika FMIPA UNS)
-Dosen Pengampu: Ade Susanti, S.Si., M.Si.
 
 Rujukan Teori:
 - Howard M. Taylor & Samuel Karlin (1998), Bab V
@@ -279,7 +277,8 @@ if __name__ == "__main__":
     print(f"    Status = {disp_res['kesimpulan_evaluasi']}")
 
     # 5. Uji Dataset Empiris Riil (Seattle 911 Dispatches)
-    data_csv = "/media/ramadhan/0C6A-1ABD/University/Pengantar Proses Stokastik/Tugas 4/code/data/raw/seattle_fire_911_calls_20261023.csv"
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    data_csv = os.path.join(base_dir, "data", "raw", "seattle_fire_911_calls_20261023.csv")
     if os.path.exists(data_csv):
         emp_res = verify_empirical_dataset(data_csv)
         print(f"\n[6] Verifikasi Data Empiris Riil (Seattle 911 Calls, 23 Okt 2026):")
@@ -293,6 +292,6 @@ if __name__ == "__main__":
         print(f"    Thinning Non-Medis           = {emp_res['lambda_non_medis']:.4f} panggilan/jam")
 
     print("\n" + "=" * 65)
-    print("  SELURUH UJI VERIFIKASI KELOMPOK 1 BERHASIL TERVALIDASI 100%")
+    print("  VERIFIKASI PERHITUNGAN SELESAI")
     print("=" * 65)
 

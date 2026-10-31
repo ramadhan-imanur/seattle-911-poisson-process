@@ -1,21 +1,19 @@
 """
 analisis_studi_kasus.py
 =======================
-Skrip analitis lengkap dan komprehensif untuk pengolahan data empiris:
-Studi Kasus Aliran Panggilan Darurat Seattle 911 (Seattle Fire Department)
+Analisis data empiris panggilan darurat Seattle 911 (23 Oktober 2026).
 Mata Kuliah: Pengantar Proses Stokastik (S1 Matematika FMIPA UNS)
-Penulis: Ramadhan Imanur Rochim (NIM. M0124015) - Kelompok 1
+Penulis: Ramadhan Imanur Rochim (NIM M0124015)
 
-Tujuan:
-1. Memuat dan memvalidasi dataset empiris riil 314 panggilan (23 Oktober 2026).
-2. Mengestimasi parameter laju intensitas MLE (lambda_hat per jam dan per menit).
-3. Menghitung statistik deskriptif waktu antar-kedatangan empiris dan perbandingannya dengan teoritis.
-4. Melakukan uji indeks dispersi Poisson D = s^2 / X_bar pada skala 24 jam dan sub-interval lokal (dini hari, pagi, siang, malam).
-5. Melakukan uji goodness-of-fit: Kolmogorov-Smirnov untuk waktu antar-kedatangan dan sifat uniformitas waktu kedatangan bersyarat N(t)=n.
-6. Menganalisis operasi thinning (sub-aliran medis vs non-medis) dan superposisi.
-7. Menganalisis waktu tunggu Gamma/Erlang W_n untuk n = 10, 30, 60, 100, 150, 200, 300 serta mengevaluasi realisasi empirisnya.
-8. Menghasilkan visualisasi grafik publikasi dengan kualitas tinggi ke direktori code/figures/ dan report/figures/.
-9. Menyimpan ringkasan komputasi terstruktur ke code/data/processed/hasil_studi_kasus_lengkap.json.
+Tahapan analisis:
+1. Memuat data 314 panggilan darurat (23 Oktober 2026).
+2. Mengestimasi laju intensitas MLE (lambda_hat per jam dan menit).
+3. Menghitung statistik deskriptif waktu antar-kedatangan (IAT).
+4. Melakukan uji indeks dispersi Poisson pada skala 24 jam dan sub-interval waktu.
+5. Melakukan uji Kolmogorov-Smirnov untuk distribusi IAT dan sifat seragam waktu kedatangan bersyarat.
+6. Menganalisis operasi penipisan (thinning) dan superposisi.
+7. Menganalisis waktu tunggu Erlang/Gamma W_n.
+8. Menyimpan grafik visualisasi dan hasil olahan data ke JSON.
 """
 
 import os
@@ -414,7 +412,7 @@ def main():
 
     print(f"Hasil lengkap berhasil disimpan ke: {output_json}")
     print("=" * 70)
-    print("  EKSEKUSI PIPELINE ANALISIS EMPIRIS SELESAI DENGAN SUKSES")
+    print("  Analisis data empiris selesai.")
     print("=" * 70)
 
 if __name__ == "__main__":
